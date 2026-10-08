@@ -1,0 +1,10 @@
+{"d":{"results":[
+{"messageGuid":"d504d916-8d5e-4f6f-978c-0b9f8f2bd6f7","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-01-12T20:07:11.325Z","durationMs":18126,"correlationId":"362abc53069db7aab7c710e92432dc7b"},
+{"messageGuid":"f82215b3-4cd2-4076-9fd2-b83a9918e00c","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-03-13T20:46:37.341Z","durationMs":49669,"correlationId":"b55b2fec5ef9ec3cd26a46b2f35c6b0d"},
+{"messageGuid":"3a626971-d67e-470e-8a55-1a71715879cc","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Concur_Expense","logStart":"2026-03-16T23:00:56.865Z","durationMs":14360,"correlationId":"42ac3fbb1025642bb50e383221b6bd8f"},
+{"messageGuid":"ca5f37e9-4d39-47f5-8987-7dcb7c0b74a7","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"SuccessFactors_EC","logStart":"2026-04-05T05:32:53.576Z","durationMs":50040,"correlationId":"ec671a471082566ca0624fb5393caa3b"},
+{"messageGuid":"0c435133-ae00-458f-b170-f93643713688","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"Salesforce_CRM","logStart":"2026-01-25T15:15:56.757Z","durationMs":15077,"correlationId":"49678ba94573c7d3496436fe589f0e96"},
+{"messageGuid":"21b32b90-3809-467b-a757-f12496b0d30f","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Ariba_Network","logStart":"2026-05-09T08:01:12.329Z","durationMs":9399,"correlationId":"45b7735083f02b979fe9a010f729ddef"},
+{"messageGuid":"612d27da-465b-4053-b2b1-a46befd37cd5","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-01-10T03:09:49.950Z","durationMs":32360,"correlationId":"c068ef322821945e49c38bea9f8314dd"},
+{"messageGuid":"4a9851a0-a45c-4517-937a-bcd0c03e5a82","iFlow":"IF_Invoice_Post","status":"FAILED","sender":"SuccessFactors_EC","logStart":"2026-10-05T06:38:01.498Z","durationMs":37558,"correlationId":"ad6be7420f43113fd7d946fbc1d918a5"},
+{}]}}

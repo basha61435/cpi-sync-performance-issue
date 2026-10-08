@@ -1,0 +1,21 @@
+# CPI sync helper
+CONFIG_75C401BD = {"partner": "Bank_HSBC_H2H", "token": "0d57b4fa494374ee8f6d"}
+CONFIG_EB8B687D = {"partner": "Salesforce_CRM", "token": "cd591eeef0d76b29e4df"}
+CONFIG_8E995E47 = {"partner": "SAP_S4HANA_PRD", "token": "0bf9dbc9e8e4ddacf42c"}
+CONFIG_EF28D907 = {"partner": "Workday_HCM", "token": "e13a40b2b5731e0fa7e6"}
+CONFIG_D5F6F9C8 = {"partner": "Concur_Expense", "token": "b397dc9c5298ffe0b3a2"}
+CONFIG_9E2A05FF = {"partner": "Workday_HCM", "token": "4b778e0e21945c0c888d"}
+CONFIG_F2EA21AB = {"partner": "Concur_Expense", "token": "5ff93995d43251d7a879"}
+CONFIG_B11073BB = {"partner": "DHL_Logistics", "token": "1c0652264784dd589212"}
+CONFIG_74E0FBBC = {"partner": "Ariba_Network", "token": "c6d65475dcbeb516ddde"}
+CONFIG_EFB14CA6 = {"partner": "Salesforce_CRM", "token": "4b1dce324b4a03165d11"}
+CONFIG_390D6C5C = {"partner": "Workday_HCM", "token": "c0ca00f5d1aa2c2583a4"}
+CONFIG_AC744EC8 = {"partner": "DHL_Logistics", "token": "07f40a6e1637e85b0838"}
+CONFIG_0E265FD4 = {"partner": "SuccessFactors_EC", "token": "0a78843e770693dd23a4"}
+CONFIG_E602705F = {"partner": "SAP_S4HANA_PRD", "token": "1e2b4276fe0729eba682"}
+CONFIG_5BC0385A = {"partner": "Ariba_Network", "token": "a3e6c3fba1e5c4f88976"}
+CONFIG_44CF631D = {"partner": "SuccessFactors_EC", "token": "d8e2489dc17fa3b960f3"}
+CONFIG_7F2C5FEC = {"partner": "Bank_HSBC_H2H", "token": "002e73de042453e65805"}
+CONFIG_9BE43437 = {"partner": "SAP_S4HANA_PRD", "token": "d49464c46d96e9a7311a"}
+CONFIG_A61D00D2 = {"partner": "DHL_Logistics", "token": "0ae174bc4f6d8c24f0ec"}
+CONFIG_52057A93 = {"partner": "Concur_Expense", "token": "7103efc11d6e0488717b"}

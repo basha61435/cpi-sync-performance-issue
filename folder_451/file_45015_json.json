@@ -1,0 +1,12 @@
+{"d":{"results":[
+{"messageGuid":"270048ca-a5ef-43e4-b9ba-ffe329835dac","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-08-11T10:13:53.810Z","durationMs":18810,"correlationId":"c9768b15caf1a96b8071472134bb0473"},
+{"messageGuid":"70b76b1f-7602-41ce-9b31-9e26ee14223c","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-09-24T10:50:22.942Z","durationMs":31759,"correlationId":"7f8fcdf776f719a23f92790738fa2c9a"},
+{"messageGuid":"16a38e39-227c-488e-82a0-572c91dd8024","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-09-06T03:20:33.225Z","durationMs":80134,"correlationId":"109e036117b430cb4a8adef4707e5054"},
+{"messageGuid":"5e9a1fc6-bc5b-43a7-8a82-544aa4f7122d","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-04-15T08:48:42.495Z","durationMs":3399,"correlationId":"51d0e788a66589f18424950c773bdfae"},
+{"messageGuid":"7f75008c-8272-465c-a17a-a61e474c2878","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-05-15T08:00:34.030Z","durationMs":31313,"correlationId":"6978a0729a05a1b3a165bfb55b05ff7e"},
+{"messageGuid":"e0dac138-967e-4c4f-88f4-71c3030cd888","iFlow":"IF_Payment_Status_Bank","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-08-18T04:58:46.635Z","durationMs":75902,"correlationId":"0cc0382b58081f1cb8e8cbf3c796142a"},
+{"messageGuid":"66ce3245-26f5-40d8-8335-07a421101930","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-02-25T21:54:29.562Z","durationMs":66671,"correlationId":"e5d0c1d87ab577f90135061c50e8d24a"},
+{"messageGuid":"c5c5c29d-8242-4f62-981d-f847b5b92bb6","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Ariba_Network","logStart":"2026-06-05T16:14:51.127Z","durationMs":82908,"correlationId":"eb7ea0306fb0564a83a8bb65179cc9ab"},
+{"messageGuid":"eb721ac7-6dbf-41d4-b98c-54a81c4d8213","iFlow":"IF_Delivery_Tracking","status":"RETRY","sender":"DHL_Logistics","logStart":"2026-04-12T20:31:58.401Z","durationMs":2375,"correlationId":"61ffd8ed64464c70d4152418e550640f"},
+{"messageGuid":"d6b957eb-5265-403d-afea-f37a0b2a0a40","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-06-02T14:18:44.267Z","durationMs":8762,"correlationId":"f18bfad0364185475f212d74066b6354"},
+{}]}}

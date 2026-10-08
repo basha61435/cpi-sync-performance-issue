@@ -1,0 +1,13 @@
+{"d":{"results":[
+{"messageGuid":"f18a07e7-e472-47d6-9bc0-2380b200075f","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-03-21T22:15:13.210Z","durationMs":5208,"correlationId":"7a2f3ac66a2ded18a0dbd375aaf6842d"},
+{"messageGuid":"07771ff3-f620-4ca0-a965-7f1eebabefa3","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-03-12T05:06:24.753Z","durationMs":55452,"correlationId":"4302d11bc54b203879b0def80b6c6b43"},
+{"messageGuid":"31a2fe87-35f7-48a8-a614-67ddc7440436","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"Concur_Expense","logStart":"2026-06-18T21:45:01.829Z","durationMs":73834,"correlationId":"9f4bb6e2b2b03f5b1d88e618e67e52d0"},
+{"messageGuid":"5e7599aa-a90d-4968-b75b-d9940e47b699","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-07-22T07:26:28.464Z","durationMs":69592,"correlationId":"93cd396388350b259a48828c3bdbf1b5"},
+{"messageGuid":"0f82cba3-99cb-4988-a251-58b0e9c69e11","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-03-25T08:07:46.178Z","durationMs":17372,"correlationId":"795ea135d3eb38405003fb5e2eab8dc1"},
+{"messageGuid":"fcb9d6fe-5345-426f-9cdd-d87c97090ec8","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"SuccessFactors_EC","logStart":"2026-09-15T13:11:48.095Z","durationMs":24898,"correlationId":"1cdd7e30531e60e0aed7c28270ec7ac4"},
+{"messageGuid":"f289b294-75d8-4ee4-891a-906687c64ef2","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"SuccessFactors_EC","logStart":"2026-02-08T10:14:43.912Z","durationMs":67318,"correlationId":"6801190edf12dcecf5802a97bbbe4a8e"},
+{"messageGuid":"d2569569-39f4-4e69-bf04-a61d1d063491","iFlow":"IF_Payment_Status_Bank","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-05-12T08:23:42.499Z","durationMs":68721,"correlationId":"30070849518463005afa992edd028f68"},
+{"messageGuid":"cc28960e-e197-4d5b-9b05-b6cc54acd2f3","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Salesforce_CRM","logStart":"2026-05-04T23:10:40.262Z","durationMs":44342,"correlationId":"ed028fd671a4ec545addfa24a030f071"},
+{"messageGuid":"408ae5b3-8823-4c02-b63e-2312faa52ead","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"SuccessFactors_EC","logStart":"2026-08-01T08:08:27.982Z","durationMs":87057,"correlationId":"154d5e5b3f4493f629fe27f852e368f8"},
+{"messageGuid":"169868ed-4962-4cc0-b739-3f3497f7831c","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-02-25T16:51:38.997Z","durationMs":49892,"correlationId":"1b1cf70fec1ead47ad59793587697aee"},
+{}]}}
