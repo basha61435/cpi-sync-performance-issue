@@ -1,0 +1,221 @@
+integrationPackages:
+  - id: IF_Delivery_Tracking_b5b223
+    version: 1.0.10
+    sender: Bank_HSBC_H2H
+    checksum: 6abf31d368416412a948bdbd22c1a192
+  - id: IF_PurchaseOrder_Ariba_655ff3
+    version: 1.0.8
+    sender: Ariba_Network
+    checksum: b78a720e888be1e057f7450a6ab9c969
+  - id: IF_Material_Master_Replication_ae6938
+    version: 1.0.4
+    sender: SAP_S4HANA_PRD
+    checksum: 1df86b0d9964382f1581dbdfb9a95a50
+  - id: IF_Invoice_Post_abc193
+    version: 1.0.41
+    sender: Bank_HSBC_H2H
+    checksum: 80c32b4015c316db5a880094f2e169ea
+  - id: IF_Employee_Delta_Sync_73b8e7
+    version: 1.0.70
+    sender: SAP_S4HANA_PRD
+    checksum: 39b1fe0e87f51d87bf7298ac8b9e6560
+  - id: IF_Payment_Status_Bank_7687b0
+    version: 1.0.68
+    sender: Workday_HCM
+    checksum: f0d537f02c04850e1a2a4f13936b87dc
+  - id: IF_PurchaseOrder_Ariba_2b927e
+    version: 1.0.16
+    sender: SuccessFactors_EC
+    checksum: eaae67009b43ae0966a26bffcf8df9d2
+  - id: IF_PurchaseOrder_Ariba_6e889b
+    version: 1.0.12
+    sender: SuccessFactors_EC
+    checksum: 86bafa073a7f706733131b7f3a4077e9
+  - id: IF_Material_Master_Replication_c2bdae
+    version: 1.0.33
+    sender: Workday_HCM
+    checksum: 08712e220abd74394a77f0509b268101
+  - id: IF_Invoice_Post_07c990
+    version: 1.0.12
+    sender: Bank_HSBC_H2H
+    checksum: 1951f014a02a98fe6d186375fa03e939
+  - id: IF_Sales_Order_Create_403cc0
+    version: 1.0.63
+    sender: SuccessFactors_EC
+    checksum: b124bda788602760920e63b7e0726340
+  - id: IF_Sales_Order_Create_44be90
+    version: 1.0.11
+    sender: Workday_HCM
+    checksum: 5c319b61ba24b7e16d509320318baf4c
+  - id: IF_PurchaseOrder_Ariba_158fbe
+    version: 1.0.51
+    sender: Workday_HCM
+    checksum: 0f606923fed87f0cde8cdf36c14c8dcf
+  - id: IF_BusinessPartner_Sync_5be308
+    version: 1.0.33
+    sender: DHL_Logistics
+    checksum: 9c842f7f5d7deb1e69c45b14356f9eae
+  - id: IF_PurchaseOrder_Ariba_47f0c6
+    version: 1.0.72
+    sender: Bank_HSBC_H2H
+    checksum: cb7b557c08039c014a0c68fdc469b5b9
+  - id: IF_Payment_Status_Bank_4785f9
+    version: 1.0.49
+    sender: SAP_S4HANA_PRD
+    checksum: 091ef0536b73b6f0072682d70499aa00
+  - id: IF_Payment_Status_Bank_6a9a74
+    version: 1.0.73
+    sender: SuccessFactors_EC
+    checksum: 8b724ba812c170583248c3c4d2c81552
+  - id: IF_Delivery_Tracking_cf9167
+    version: 1.0.78
+    sender: Concur_Expense
+    checksum: 22561d53e4d8444474ded764a1a6842c
+  - id: IF_BusinessPartner_Sync_c08605
+    version: 1.0.49
+    sender: SuccessFactors_EC
+    checksum: 27046f7efbb63809229ecb403b535625
+  - id: IF_BusinessPartner_Sync_7aaab1
+    version: 1.0.76
+    sender: Concur_Expense
+    checksum: 7a7b1ec7efb172b2428f323ce8bd17d3
+  - id: IF_Delivery_Tracking_9dac89
+    version: 1.0.8
+    sender: Ariba_Network
+    checksum: 744b51645880e80868c731ce244eadf1
+  - id: IF_Invoice_Post_207750
+    version: 1.0.46
+    sender: SuccessFactors_EC
+    checksum: 29534f488ad2a40d223f181a62644e9c
+  - id: IF_PurchaseOrder_Ariba_b4f3b9
+    version: 1.0.74
+    sender: DHL_Logistics
+    checksum: f59c5354e22a29681fb1eb83e22bfe06
+  - id: IF_BusinessPartner_Sync_d16206
+    version: 1.0.89
+    sender: SuccessFactors_EC
+    checksum: 6537d52462d2256340a27166144b7aed
+  - id: IF_Employee_Delta_Sync_29b680
+    version: 1.0.69
+    sender: Salesforce_CRM
+    checksum: b06efb02205c391e40120e52c480b11e
+  - id: IF_Sales_Order_Create_c046ea
+    version: 1.0.50
+    sender: DHL_Logistics
+    checksum: 06a13b9b3434510b554c80c99f80e613
+  - id: IF_PurchaseOrder_Ariba_f8bfe5
+    version: 1.0.96
+    sender: Workday_HCM
+    checksum: 5cce8d6c34a5dc5170b53628cfe1e4fd
+  - id: IF_Sales_Order_Create_7da375
+    version: 1.0.25
+    sender: Ariba_Network
+    checksum: 80e36d7ada04335948fc05f844bde5cb
+  - id: IF_PurchaseOrder_Ariba_832ea7
+    version: 1.0.82
+    sender: Salesforce_CRM
+    checksum: 5271df5874b1617e31e8a2370f15d99c
+  - id: IF_PurchaseOrder_Ariba_0cc138
+    version: 1.0.37
+    sender: DHL_Logistics
+    checksum: 18226e230322ff7b605177702e517117
+  - id: IF_Employee_Delta_Sync_687a24
+    version: 1.0.94
+    sender: Concur_Expense
+    checksum: a8cdeb5ce23b8cfee10929283764827d
+  - id: IF_Invoice_Post_9cbda2
+    version: 1.0.76
+    sender: Concur_Expense
+    checksum: 5a721285baba5240b28f4b6fd4d4a702
+  - id: IF_Payment_Status_Bank_b9f4ac
+    version: 1.0.42
+    sender: SuccessFactors_EC
+    checksum: c3349b4054264a246d97a289172bc28b
+  - id: IF_BusinessPartner_Sync_ad3b54
+    version: 1.0.76
+    sender: Bank_HSBC_H2H
+    checksum: e82cd92d5826896e933ff16cbf039d7f
+  - id: IF_BusinessPartner_Sync_775763
+    version: 1.0.74
+    sender: Salesforce_CRM
+    checksum: feb747a0bb0e40d9907392391d4bad21
+  - id: IF_Delivery_Tracking_54da45
+    version: 1.0.79
+    sender: DHL_Logistics
+    checksum: 3a846204d51c9f83935bb841a48ba2b5
+  - id: IF_Material_Master_Replication_d92efc
+    version: 1.0.63
+    sender: Workday_HCM
+    checksum: baac1f73cb3f1bc707bf8360cb42305a
+  - id: IF_BusinessPartner_Sync_d634cd
+    version: 1.0.84
+    sender: Ariba_Network
+    checksum: c106154315b19042e145df760a56552a
+  - id: IF_Invoice_Post_b96399
+    version: 1.0.46
+    sender: Concur_Expense
+    checksum: 36b19357a49ea20b6aecfc630694a3d1
+  - id: IF_Delivery_Tracking_b97494
+    version: 1.0.40
+    sender: SAP_S4HANA_PRD
+    checksum: dff133522c75d8e0a6a771dd9e61976f
+  - id: IF_BusinessPartner_Sync_35ca85
+    version: 1.0.30
+    sender: SAP_S4HANA_PRD
+    checksum: 759f4596859f2123ec498c8c2cc6f8fd
+  - id: IF_Delivery_Tracking_ba2864
+    version: 1.0.87
+    sender: SAP_S4HANA_PRD
+    checksum: e925300551a89ce1a9c53ce4b85cae6a
+  - id: IF_Payment_Status_Bank_a77eea
+    version: 1.0.74
+    sender: Salesforce_CRM
+    checksum: 947097d46ce06fcfc2ca695f6fae2288
+  - id: IF_PurchaseOrder_Ariba_91296d
+    version: 1.0.19
+    sender: Salesforce_CRM
+    checksum: f80ee4f7e326f323d1a2e32d57805f25
+  - id: IF_PurchaseOrder_Ariba_931d1c
+    version: 1.0.89
+    sender: Ariba_Network
+    checksum: 955a2d480f1bd50da6dee4932ecfc78d
+  - id: IF_Employee_Delta_Sync_b92251
+    version: 1.0.63
+    sender: Ariba_Network
+    checksum: cb98a2e728e39312b355971aaa6e5cb4
+  - id: IF_Material_Master_Replication_b8d226
+    version: 1.0.48
+    sender: Ariba_Network
+    checksum: a974e119ca7038847f7794a18eecf5aa
+  - id: IF_Payment_Status_Bank_7e0c45
+    version: 1.0.15
+    sender: Bank_HSBC_H2H
+    checksum: 28eca0c52049a177d22f9ef74fb681a5
+  - id: IF_Payment_Status_Bank_c49d8b
+    version: 1.0.65
+    sender: SAP_S4HANA_PRD
+    checksum: d8f3a933ad04bc3225b5cc60ad612343
+  - id: IF_Material_Master_Replication_9c17f1
+    version: 1.0.67
+    sender: Concur_Expense
+    checksum: 2324da2062157210b62a72180939cfe8
+  - id: IF_Sales_Order_Create_ff10a8
+    version: 1.0.74
+    sender: SuccessFactors_EC
+    checksum: 8aa9bdef08fad9e09d78bbacfa388ee1
+  - id: IF_Payment_Status_Bank_16ae99
+    version: 1.0.46
+    sender: Salesforce_CRM
+    checksum: 3f9140b752e54e66b9a759feb8a24dbb
+  - id: IF_Invoice_Post_14e9ea
+    version: 1.0.5
+    sender: SAP_S4HANA_PRD
+    checksum: e11d9b27a7a443ab9a04c8e35461c2d4
+  - id: IF_BusinessPartner_Sync_098d25
+    version: 1.0.61
+    sender: Workday_HCM
+    checksum: 9fd3476ec70cd27988a45bbd5f49dc13
+  - id: IF_Material_Master_Replication_5db54e
+    version: 1.0.27
+    sender: Workday_HCM
+    checksum: 47c9de14573a5c83feb0d0a8433d5d25

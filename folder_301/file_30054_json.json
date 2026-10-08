@@ -1,0 +1,9 @@
+{"d":{"results":[
+{"messageGuid":"90e3cf8a-8879-4a9f-812c-560b91cc0427","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Concur_Expense","logStart":"2026-03-20T18:15:25.163Z","durationMs":3673,"correlationId":"a5e562686cd248a845b078e3d655ccba"},
+{"messageGuid":"ed0fdf63-5b51-4782-92c5-3f48818a8ac5","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-08-25T03:39:46.979Z","durationMs":52196,"correlationId":"84c2149cb4d2485bd13161498437ac86"},
+{"messageGuid":"12297143-e5fd-44eb-9a1b-93a12b93ea8f","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-02-19T14:21:19.451Z","durationMs":82218,"correlationId":"b3e9cc78ea94b39e35222c08c179cb49"},
+{"messageGuid":"095c653c-6005-4f60-8a18-5aa6206f3684","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-08-03T07:00:15.183Z","durationMs":14883,"correlationId":"e2c5c5cc0a80427d0f95ba8f8a2a7da2"},
+{"messageGuid":"ad88fe60-6a0a-4598-b6ff-e7e8492ec0fe","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-01-05T01:17:11.218Z","durationMs":3147,"correlationId":"f514999ec4baccb6a7e81aa396d7faf9"},
+{"messageGuid":"f721c8fb-de98-4085-9525-4e882b03648c","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-04-27T17:56:36.335Z","durationMs":81597,"correlationId":"d9ccdb4ece1167b738a470ccb2fd349c"},
+{"messageGuid":"922d38aa-a558-40c3-a307-66dc8874d9a1","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-01-09T22:47:28.008Z","durationMs":40546,"correlationId":"98489fc41eb5e4f10cf57a057d23e812"},
+{}]}}
