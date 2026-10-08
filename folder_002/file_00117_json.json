@@ -1,0 +1,9 @@
+{"d":{"results":[
+{"messageGuid":"0e7043ed-2ae2-4141-8969-ef5ab2588f91","iFlow":"IF_Invoice_Post","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-08-07T14:17:39.309Z","durationMs":18371,"correlationId":"d0078c61257cc849416fa5af8c6b5148"},
+{"messageGuid":"c0ea91ec-cf9e-434e-9016-32f30840c725","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-07-03T15:06:38.289Z","durationMs":36597,"correlationId":"24b04ecf57f43aad36a2fcac636dde36"},
+{"messageGuid":"88580151-7e5c-4405-bced-5d57bf160305","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-07-16T07:59:52.035Z","durationMs":41211,"correlationId":"3acc6d797ad6aaa68525292ac9af9703"},
+{"messageGuid":"bcafdebb-70b5-4796-bb15-6d8a01fe90e5","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-03-12T01:44:08.267Z","durationMs":6369,"correlationId":"8aa6e354dcac2fbecdf584beafc6c139"},
+{"messageGuid":"c95faa46-01ce-4e83-a0d4-dedd1f8e0d0b","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-02-28T11:47:44.734Z","durationMs":34492,"correlationId":"f9241a4c318a619bd2e17dce6c677b7d"},
+{"messageGuid":"943991cf-d0d7-4478-8172-9d48e8d4ec30","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-06-27T13:13:56.390Z","durationMs":13702,"correlationId":"951deeb2ca79cfb4713a58b3c56d42a8"},
+{"messageGuid":"45054e8a-5e85-4c4b-a191-aed4d768615d","iFlow":"IF_Payment_Status_Bank","status":"COMPLETED","sender":"Salesforce_CRM","logStart":"2026-04-14T18:21:36.895Z","durationMs":21960,"correlationId":"01626502ba2b6c23df62c51ae1a938b8"},
+{}]}}

@@ -1,0 +1,14 @@
+{"d":{"results":[
+{"messageGuid":"db5ff615-77b1-48db-89b3-3658c5b47aa7","iFlow":"IF_Sales_Order_Create","status":"RETRY","sender":"Workday_HCM","logStart":"2026-03-12T06:18:40.485Z","durationMs":10679,"correlationId":"3f4ec3c0d10f2d209da096452c09b058"},
+{"messageGuid":"85fbb4d5-4275-4b74-8b28-43dbd3d91903","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-04-25T01:22:20.040Z","durationMs":44865,"correlationId":"0cc6e90a8acaa4478f57d24ee2fa2a72"},
+{"messageGuid":"703c1c82-ced2-4981-b28b-89a8d51f533d","iFlow":"IF_Payment_Status_Bank","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-01-17T01:54:00.642Z","durationMs":79571,"correlationId":"a4035a0787808f0397ff68fd29a85ff1"},
+{"messageGuid":"dcac43e3-606f-42d0-a498-1363c23c9b9d","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-01-14T15:52:00.608Z","durationMs":84902,"correlationId":"998e43dde4d47347a77628cd5435b2b1"},
+{"messageGuid":"82830732-0cfd-4434-ab68-149befa9e467","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-02-24T09:41:24.096Z","durationMs":85183,"correlationId":"9bad8e232e4c178ae3d7818276c164ab"},
+{"messageGuid":"8e4b2e8c-2c6a-4c89-8e71-b238526f6d63","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"Workday_HCM","logStart":"2026-03-14T21:41:26.104Z","durationMs":36610,"correlationId":"273fc5ec58dadf568ebc4a981e00c8d8"},
+{"messageGuid":"40c51c15-fb51-4548-acf5-2751ce2ba09a","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"DHL_Logistics","logStart":"2026-09-29T15:32:19.095Z","durationMs":28135,"correlationId":"9da7b8ecd9923e2927879dcd1027785c"},
+{"messageGuid":"413513b7-fbdd-49fb-bbb6-4904f7d6edb8","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-05-10T19:37:51.218Z","durationMs":84607,"correlationId":"4c0b9caf3873ed2a0e187f52d79ad0ba"},
+{"messageGuid":"6d8a416e-01ac-4bd5-80ff-fa8563dbf3ec","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-04-13T05:54:37.587Z","durationMs":39850,"correlationId":"4c17d7c3dbbcc950b0eb2e796c74c0a7"},
+{"messageGuid":"cf2f0062-cb28-4a72-a499-3717762f18bf","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"SuccessFactors_EC","logStart":"2026-08-30T12:42:46.234Z","durationMs":47845,"correlationId":"04605c566afbb650efa41093caebf556"},
+{"messageGuid":"9cc72e3d-4f67-4d4f-ac6f-d10d799c6b4e","iFlow":"IF_Payment_Status_Bank","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-09-09T07:56:12.141Z","durationMs":37061,"correlationId":"fe6a9532fd3ddd66df77daf86eda6bfb"},
+{"messageGuid":"6939c85a-f03d-4a37-9951-0dd088e837f9","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"Workday_HCM","logStart":"2026-06-02T11:45:36.696Z","durationMs":15027,"correlationId":"87e81c24952b42841e29c428b2e1ca0c"},
+{}]}}

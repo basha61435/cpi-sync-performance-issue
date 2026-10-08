@@ -1,0 +1,121 @@
+integrationPackages:
+  - id: IF_Employee_Delta_Sync_e7f4f0
+    version: 1.0.37
+    sender: DHL_Logistics
+    checksum: dbf5d5ed2ad7d8d1e6c49a05491d25be
+  - id: IF_Material_Master_Replication_0050cc
+    version: 1.0.73
+    sender: DHL_Logistics
+    checksum: 4b3d11f5c4eb57fe04b5f94cbbaf43f0
+  - id: IF_Material_Master_Replication_8425fd
+    version: 1.0.81
+    sender: SuccessFactors_EC
+    checksum: 2c0ab7063f3bc2b87caf1606d2bd9c3c
+  - id: IF_Material_Master_Replication_e43c74
+    version: 1.0.68
+    sender: SAP_S4HANA_PRD
+    checksum: a86acc3f9836f20bb04c1b9cdc539c1e
+  - id: IF_PurchaseOrder_Ariba_8fb7e0
+    version: 1.0.70
+    sender: Bank_HSBC_H2H
+    checksum: 7c9f6f12a86dc842c711f76f214a83d0
+  - id: IF_Material_Master_Replication_6953c2
+    version: 1.0.43
+    sender: Bank_HSBC_H2H
+    checksum: 0d65bc4ea9ebdc0907b12222559f64b3
+  - id: IF_Material_Master_Replication_de948c
+    version: 1.0.62
+    sender: DHL_Logistics
+    checksum: 17f3b95adbb1441ba9260de9d7ec0dc4
+  - id: IF_Invoice_Post_ca8b20
+    version: 1.0.32
+    sender: SuccessFactors_EC
+    checksum: e5f2d9b3142fb0b729ee76568f7288f3
+  - id: IF_Payment_Status_Bank_1563f9
+    version: 1.0.95
+    sender: Concur_Expense
+    checksum: c391f29b8bfdc740f6069e138f9ff6fe
+  - id: IF_Sales_Order_Create_30d749
+    version: 1.0.41
+    sender: Workday_HCM
+    checksum: e3162d78366d16899fdc61f17b87405e
+  - id: IF_Payment_Status_Bank_9d966e
+    version: 1.0.20
+    sender: Concur_Expense
+    checksum: b966e16778f9e38228668f1e573ae713
+  - id: IF_PurchaseOrder_Ariba_f1e674
+    version: 1.0.36
+    sender: DHL_Logistics
+    checksum: d1ffd98c75b49c0a6a9fed298da72417
+  - id: IF_Employee_Delta_Sync_30a295
+    version: 1.0.46
+    sender: Salesforce_CRM
+    checksum: 1c5d1bb200b172beae0634efbd9639e4
+  - id: IF_Invoice_Post_4fd3af
+    version: 1.0.17
+    sender: Bank_HSBC_H2H
+    checksum: b8b91492f2348475c0dd5e1514a834d7
+  - id: IF_Invoice_Post_8293d2
+    version: 1.0.99
+    sender: Ariba_Network
+    checksum: 026fe29edf96e218d68f329fa545dee5
+  - id: IF_Payment_Status_Bank_32a01a
+    version: 1.0.42
+    sender: Concur_Expense
+    checksum: d9880e7b4d07ce7af418528f2af98958
+  - id: IF_BusinessPartner_Sync_084484
+    version: 1.0.18
+    sender: SAP_S4HANA_PRD
+    checksum: 4fc803e7bded2aab579e938375b92e11
+  - id: IF_Delivery_Tracking_67c21e
+    version: 1.0.73
+    sender: DHL_Logistics
+    checksum: cb0204b04cde8e2ab3b142e335ba03cd
+  - id: IF_Sales_Order_Create_54aa22
+    version: 1.0.66
+    sender: Salesforce_CRM
+    checksum: 5766cdcf68705a038ee184aa35dba229
+  - id: IF_Delivery_Tracking_17302c
+    version: 1.0.51
+    sender: Ariba_Network
+    checksum: 380229abfd85adf28dae026e674eac3e
+  - id: IF_PurchaseOrder_Ariba_91d096
+    version: 1.0.15
+    sender: Bank_HSBC_H2H
+    checksum: 2a19dd0927c9e062d57946daafe501a2
+  - id: IF_Delivery_Tracking_31cbd0
+    version: 1.0.29
+    sender: SuccessFactors_EC
+    checksum: 624ad449c48397c8c9dd863887c3c448
+  - id: IF_Employee_Delta_Sync_52cc43
+    version: 1.0.60
+    sender: Bank_HSBC_H2H
+    checksum: 9e4c1b182c72f80673284ae23cd83afc
+  - id: IF_Sales_Order_Create_006ea0
+    version: 1.0.71
+    sender: Ariba_Network
+    checksum: b7c989a47343a1860ce0765c554098a4
+  - id: IF_Delivery_Tracking_b234b2
+    version: 1.0.60
+    sender: SAP_S4HANA_PRD
+    checksum: 0b4b075880e314c109d896e9e1d75170
+  - id: IF_PurchaseOrder_Ariba_ff6463
+    version: 1.0.88
+    sender: Concur_Expense
+    checksum: 05cc0f8ed6179e20059f6958b758cdc8
+  - id: IF_Delivery_Tracking_66320d
+    version: 1.0.65
+    sender: Workday_HCM
+    checksum: 7399e5362dfd413f4fd4f623120b3119
+  - id: IF_Employee_Delta_Sync_33fa3c
+    version: 1.0.1
+    sender: DHL_Logistics
+    checksum: f8f74f8037e897cd07cd92837234a9af
+  - id: IF_PurchaseOrder_Ariba_12dcae
+    version: 1.0.29
+    sender: Salesforce_CRM
+    checksum: 8188a88e6458050d5a47d799abe6398d
+  - id: IF_BusinessPartner_Sync_ceced7
+    version: 1.0.47
+    sender: SuccessFactors_EC
+    checksum: 5175e14bd4afa2bd00f047137973504e

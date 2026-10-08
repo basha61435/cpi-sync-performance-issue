@@ -1,0 +1,77 @@
+integrationPackages:
+  - id: IF_Material_Master_Replication_84e828
+    version: 1.0.23
+    sender: SuccessFactors_EC
+    checksum: b9bfb3d274e92160e4da2c9b9817c926
+  - id: IF_Invoice_Post_559dba
+    version: 1.0.27
+    sender: Ariba_Network
+    checksum: d781488770bd2bc603fcbc1f065e369c
+  - id: IF_PurchaseOrder_Ariba_b5d7cf
+    version: 1.0.66
+    sender: Ariba_Network
+    checksum: 5d647d138f25d5a6681cfec39a3e68a6
+  - id: IF_BusinessPartner_Sync_71d475
+    version: 1.0.72
+    sender: Ariba_Network
+    checksum: d036101f4db1e2747bc4b649267ecd84
+  - id: IF_Employee_Delta_Sync_ad3759
+    version: 1.0.98
+    sender: Salesforce_CRM
+    checksum: ed2509f063988c1a93abfed81209fd89
+  - id: IF_PurchaseOrder_Ariba_81ca43
+    version: 1.0.62
+    sender: Concur_Expense
+    checksum: 6f3b45a2b21bc5dcfb2cb890e961695d
+  - id: IF_Delivery_Tracking_cebf5d
+    version: 1.0.16
+    sender: Ariba_Network
+    checksum: 51cf01087fcc575ac58b0e16cd0ecb2a
+  - id: IF_Invoice_Post_c8bf34
+    version: 1.0.98
+    sender: SAP_S4HANA_PRD
+    checksum: 5e8b5bed1c68914ed2beff1484f78c09
+  - id: IF_BusinessPartner_Sync_09c0ed
+    version: 1.0.64
+    sender: Concur_Expense
+    checksum: 5ec07f6cfee119102ce9a0952c5555f6
+  - id: IF_Payment_Status_Bank_74700e
+    version: 1.0.54
+    sender: SAP_S4HANA_PRD
+    checksum: 029e5db4abe6baf85f05e1a824a14cf1
+  - id: IF_Invoice_Post_a20650
+    version: 1.0.42
+    sender: Workday_HCM
+    checksum: 244158cb01658baf9a094658e5de8fe6
+  - id: IF_PurchaseOrder_Ariba_0d6d21
+    version: 1.0.3
+    sender: Concur_Expense
+    checksum: 4610c8df8c5799be9f78b1afe2ea17e8
+  - id: IF_Payment_Status_Bank_a59043
+    version: 1.0.10
+    sender: SuccessFactors_EC
+    checksum: 097f1184dcf8d65a807d717d4119bad2
+  - id: IF_BusinessPartner_Sync_810d3f
+    version: 1.0.45
+    sender: Salesforce_CRM
+    checksum: 64db25793458ee37914727d197b521f6
+  - id: IF_Sales_Order_Create_9d073f
+    version: 1.0.29
+    sender: Workday_HCM
+    checksum: 3429e0f01f4864a82be069e559c6b71e
+  - id: IF_Payment_Status_Bank_12e5a3
+    version: 1.0.63
+    sender: Concur_Expense
+    checksum: dc06e53a82bf736199e36e0b4904f48c
+  - id: IF_BusinessPartner_Sync_6a7c5b
+    version: 1.0.73
+    sender: Ariba_Network
+    checksum: 3f0af2864f99a27688bc6b31c01fef7c
+  - id: IF_Delivery_Tracking_b87ee7
+    version: 1.0.26
+    sender: Bank_HSBC_H2H
+    checksum: 3fcec8c54a95784903011fd9b9e5a731
+  - id: IF_Material_Master_Replication_95074c
+    version: 1.0.49
+    sender: SuccessFactors_EC
+    checksum: ca5049e2a8494c6c024780220054fc7b
