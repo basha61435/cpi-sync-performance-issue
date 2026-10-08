@@ -1,0 +1,73 @@
+integrationPackages:
+  - id: IF_Delivery_Tracking_4c8bf3
+    version: 1.0.88
+    sender: Ariba_Network
+    checksum: 68d5b79bd4bd217af93ad78078442f61
+  - id: IF_Payment_Status_Bank_992c14
+    version: 1.0.58
+    sender: DHL_Logistics
+    checksum: c64c4167b646e39d9fd35423c3d434fd
+  - id: IF_Payment_Status_Bank_185095
+    version: 1.0.52
+    sender: SuccessFactors_EC
+    checksum: 22260e7d993636d55ade17a71d32eea6
+  - id: IF_Invoice_Post_5d8581
+    version: 1.0.4
+    sender: Concur_Expense
+    checksum: db49b48cddc2e0c9c963367da9230e04
+  - id: IF_Payment_Status_Bank_43f024
+    version: 1.0.72
+    sender: DHL_Logistics
+    checksum: b011b74f7e6b77c8686669d358b30264
+  - id: IF_PurchaseOrder_Ariba_4ece82
+    version: 1.0.15
+    sender: DHL_Logistics
+    checksum: 724a661c71955c067a922143292057d2
+  - id: IF_Sales_Order_Create_49a04b
+    version: 1.0.20
+    sender: DHL_Logistics
+    checksum: 7380f2f80c2661b918f788a2726f5d98
+  - id: IF_Delivery_Tracking_f683a9
+    version: 1.0.12
+    sender: Ariba_Network
+    checksum: a5f8b6e71232b737d4a0be2ffa8287f6
+  - id: IF_Payment_Status_Bank_acf018
+    version: 1.0.96
+    sender: Bank_HSBC_H2H
+    checksum: f113fbf2bb0d1e9d931ce6dc4892054c
+  - id: IF_Material_Master_Replication_8fd98b
+    version: 1.0.59
+    sender: Concur_Expense
+    checksum: 9fa3fab262dd4cce03ae0438ec4f67f8
+  - id: IF_Invoice_Post_8204a5
+    version: 1.0.77
+    sender: SuccessFactors_EC
+    checksum: ca6517538e13bb4e8e717ef0610be527
+  - id: IF_Sales_Order_Create_d5bb52
+    version: 1.0.72
+    sender: DHL_Logistics
+    checksum: 00090882a06f8eba75ddfc307a032132
+  - id: IF_Material_Master_Replication_947487
+    version: 1.0.83
+    sender: SuccessFactors_EC
+    checksum: ae4a6a6a7b6476452c2cba07daf4be2b
+  - id: IF_PurchaseOrder_Ariba_e48b54
+    version: 1.0.84
+    sender: Workday_HCM
+    checksum: e4cb059b5e66229c0f53f0f0769f325f
+  - id: IF_Invoice_Post_1487ca
+    version: 1.0.81
+    sender: Salesforce_CRM
+    checksum: a43174b518d56ef9d19d4c41f3a9d845
+  - id: IF_PurchaseOrder_Ariba_06c431
+    version: 1.0.9
+    sender: Salesforce_CRM
+    checksum: cb8b30c29d124295dbd26b102d0347e3
+  - id: IF_Delivery_Tracking_cef370
+    version: 1.0.65
+    sender: Ariba_Network
+    checksum: faf14ac209a821c5d5a97afbff51c2bf
+  - id: IF_Payment_Status_Bank_e61369
+    version: 1.0.5
+    sender: Ariba_Network
+    checksum: 161dcd6e3b8f6755d0b4d3aeaf2233f6
