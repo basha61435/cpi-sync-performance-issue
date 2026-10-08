@@ -1,0 +1,31 @@
+import com.sap.gateway.ip.core.customdev.util.Message
+
+def Message processData(Message message) {
+    message.setProperty("p_751d7391", "b839da071c00680a97a2")
+    message.setProperty("p_e5594cb0", "90ea9ffd16ced973c7bd")
+    message.setProperty("p_3f3e6001", "500e92afd8413ff9aa1f")
+    message.setProperty("p_df357c23", "dba4e03cb93a0d627759")
+    message.setProperty("p_63c0500a", "51f0e4482a2d1cd8f1b1")
+    message.setProperty("p_c774aef6", "5bd5b659445be0b5d7d2")
+    message.setProperty("p_54507026", "25a1fe0f91ec321b3e17")
+    message.setProperty("p_c075e3c6", "9e3ae3d9402521c7a7da")
+    message.setProperty("p_d22d7302", "9418c8457526aedb6a8b")
+    message.setProperty("p_71769121", "822b5ccbe0d197b89064")
+    message.setProperty("p_14824903", "899197ded9bdccbe1783")
+    message.setProperty("p_458b9cb6", "f0e6c62813418fd82f64")
+    message.setProperty("p_2a9603d0", "755723b3b1d8c7f5fe3b")
+    message.setProperty("p_44e50fc5", "4869956b998346d81b08")
+    message.setProperty("p_929ad63f", "a9fef283c605d2088c16")
+    message.setProperty("p_99816b69", "56d74b538e5959b32435")
+    message.setProperty("p_7da326b4", "b497027b0b5995e6ba40")
+    message.setProperty("p_9ae4cb22", "1a5c9d43470af5a1958d")
+    message.setProperty("p_aa182c7a", "f4d341d664ac08cb5768")
+    message.setProperty("p_c87f1ed8", "ffd8f6fbb2b10bd7223c")
+    message.setProperty("p_7ac73fbe", "53a4927af85bd710fb86")
+    message.setProperty("p_ebf68d95", "5dce019a3e6288b3c3a3")
+    message.setProperty("p_293d941b", "20f91e87b74e1db1105a")
+    message.setProperty("p_7233eb61", "6366fc038283f31028d5")
+    message.setProperty("p_bc1041a6", "0be64a1ff06ee09d4121")
+    message.setProperty("p_6037ed01", "cf5fd18b20b1096dc738")
+    return message
+}
