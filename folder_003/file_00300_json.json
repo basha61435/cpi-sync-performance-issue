@@ -1,0 +1,14 @@
+{"d":{"results":[
+{"messageGuid":"2a0a9ee8-073f-4bca-bb1c-2f3d5b255397","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-04-13T06:20:00.081Z","durationMs":35004,"correlationId":"c5b2d3717ba98a1b4bf2c7b7902bd691"},
+{"messageGuid":"00ac515a-ca61-41a3-be0f-477a8e945fde","iFlow":"IF_Material_Master_Replication","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-09-22T09:38:24.730Z","durationMs":2504,"correlationId":"bac7018c6e2cf8167b8aa33829c62d16"},
+{"messageGuid":"3bada42a-150e-4e29-a3f9-2276f23b04bb","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Ariba_Network","logStart":"2026-02-16T03:15:36.881Z","durationMs":79505,"correlationId":"8677767fb3e9ba93f73cbe6e941df7a3"},
+{"messageGuid":"00548309-9942-4d4b-8655-4897d02963e2","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"Ariba_Network","logStart":"2026-09-07T20:53:47.634Z","durationMs":10347,"correlationId":"88eccae4f57d52a2dfb589b3778ae821"},
+{"messageGuid":"b9f59286-0521-4d77-b329-e8b814beb9c6","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-03-16T13:34:26.647Z","durationMs":42720,"correlationId":"2060db0e09011db6559d5868de734b7c"},
+{"messageGuid":"3a5c85e9-bc50-46a0-b2af-d7b570e67ae2","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-09-23T16:33:15.034Z","durationMs":74829,"correlationId":"582559c408f03a653fe09e3e762335ed"},
+{"messageGuid":"22e8b0d5-e14d-4ed0-be94-2b5a5a02b364","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"Bank_HSBC_H2H","logStart":"2026-07-20T05:03:33.083Z","durationMs":36941,"correlationId":"4565ff5f0055b9ab288c96c2632ee044"},
+{"messageGuid":"03b8a85a-651d-4197-a5b6-1de2555393cc","iFlow":"IF_Sales_Order_Create","status":"RETRY","sender":"Ariba_Network","logStart":"2026-06-10T03:42:12.351Z","durationMs":21266,"correlationId":"597f410fa0a5e7626414eb4fc0bf1cb1"},
+{"messageGuid":"b4ce628c-e2d9-42ec-81a9-36f3429743ee","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-07-31T09:09:29.856Z","durationMs":30278,"correlationId":"075a1bcec419bbd71da3de05ffb7d123"},
+{"messageGuid":"990af3db-9119-427f-8290-751dca473056","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"Ariba_Network","logStart":"2026-04-27T00:03:20.940Z","durationMs":6485,"correlationId":"9c657347407ca6c0d540ea8e428a185d"},
+{"messageGuid":"a3ab5da0-0dcb-4f7c-a505-331ae70ce0d0","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Ariba_Network","logStart":"2026-02-19T06:37:48.853Z","durationMs":45865,"correlationId":"8ecfeea7ec23d217dcc30f520d6574ef"},
+{"messageGuid":"a3fdfd43-eddb-409e-967e-547d9ae4a960","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-03-17T00:41:26.048Z","durationMs":48638,"correlationId":"583bfaf2d435bb134aed42b7c1c1c2b0"},
+{}]}}

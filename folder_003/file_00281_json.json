@@ -1,0 +1,13 @@
+{"d":{"results":[
+{"messageGuid":"0d1fda1f-ad1f-4249-b17b-b1b39df6b018","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"SuccessFactors_EC","logStart":"2026-03-31T18:48:48.283Z","durationMs":74552,"correlationId":"c1c06c133e70b7022aa40b8ef3146efe"},
+{"messageGuid":"6da63d10-847a-4028-a88d-c4efa65eef45","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-03-06T23:31:30.587Z","durationMs":10259,"correlationId":"71f0a5a7e72dc890fcdcbfa1a2ea3ba6"},
+{"messageGuid":"017984b1-14dc-45ac-87f2-2d72e79b0115","iFlow":"IF_Material_Master_Replication","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-04-05T19:07:19.557Z","durationMs":60319,"correlationId":"03890bc8259c1bf55977a981afe928fd"},
+{"messageGuid":"2187eb19-c052-4550-8de9-95f71ac438df","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-04-13T21:33:39.618Z","durationMs":6356,"correlationId":"98a7a036dad8b1e6cdc2d074f1d7095c"},
+{"messageGuid":"a37ff217-a84e-4939-ae1a-f8845b432ba9","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Concur_Expense","logStart":"2026-07-21T22:47:24.503Z","durationMs":3701,"correlationId":"84b299e83d2164533710fd47a28ce122"},
+{"messageGuid":"1011fc08-8a62-4f5e-b2c9-e1cfb027c9c7","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-02-09T20:56:55.964Z","durationMs":82629,"correlationId":"5942cdf7cceca6fc3b9c8a09f470ad41"},
+{"messageGuid":"3be31524-515c-4e18-a528-dd844ba6065a","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"Ariba_Network","logStart":"2026-01-14T04:11:44.632Z","durationMs":84099,"correlationId":"e1f4fd5e1a028faacd01c1010c42ec05"},
+{"messageGuid":"ca08ab76-bca1-49fb-9fbe-a8d67e09adc1","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-09-18T09:14:13.352Z","durationMs":47075,"correlationId":"a36d1efb9b02d87b9fcc76015bc4661a"},
+{"messageGuid":"eca5095c-c3bc-435b-ab27-6cb8126554c9","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Ariba_Network","logStart":"2026-07-06T11:05:42.732Z","durationMs":65144,"correlationId":"e162f6cf4fa653cccc0c9354a7170ceb"},
+{"messageGuid":"6bd7bce7-b784-4b3f-bba5-584831208541","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"SuccessFactors_EC","logStart":"2026-08-01T22:34:04.727Z","durationMs":69429,"correlationId":"4d82bb9d13f0a18e264489e9395bb7b2"},
+{"messageGuid":"880fb1b7-f87e-49a1-a026-7ff75daa6455","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-04-19T10:30:08.511Z","durationMs":7139,"correlationId":"054a6c701547f4320664be7cc90065c9"},
+{}]}}

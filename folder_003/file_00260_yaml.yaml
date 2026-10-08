@@ -1,0 +1,61 @@
+integrationPackages:
+  - id: IF_Employee_Delta_Sync_aa8595
+    version: 1.0.41
+    sender: Concur_Expense
+    checksum: 84a3b4284f50c764ffd1957e0c261ecd
+  - id: IF_Employee_Delta_Sync_e2f0f9
+    version: 1.0.71
+    sender: SAP_S4HANA_PRD
+    checksum: 52a267d0dc8ac5ba9719941d43f9f48b
+  - id: IF_BusinessPartner_Sync_1be0f5
+    version: 1.0.95
+    sender: SAP_S4HANA_PRD
+    checksum: df0febd9a57618122d5e3f85897f4b9c
+  - id: IF_Delivery_Tracking_229e1c
+    version: 1.0.2
+    sender: Bank_HSBC_H2H
+    checksum: c0d8932a16c037a878ffe36a3b342c57
+  - id: IF_Material_Master_Replication_b35bcd
+    version: 1.0.90
+    sender: Concur_Expense
+    checksum: a90c7c6a888b0da4243487c9d664ed9b
+  - id: IF_Payment_Status_Bank_8128f6
+    version: 1.0.10
+    sender: SuccessFactors_EC
+    checksum: 806a6b1bd9dd7b94e1c8884a208d95e0
+  - id: IF_BusinessPartner_Sync_e85b31
+    version: 1.0.20
+    sender: DHL_Logistics
+    checksum: 75e6a52aea6faf32701241f3714c8531
+  - id: IF_Invoice_Post_dd0618
+    version: 1.0.87
+    sender: Bank_HSBC_H2H
+    checksum: 298a54dc3ebe536c5af19ebdafb9f31e
+  - id: IF_BusinessPartner_Sync_5fb710
+    version: 1.0.76
+    sender: Bank_HSBC_H2H
+    checksum: 2d68654bfed67087f57cb642848724b7
+  - id: IF_Delivery_Tracking_f53043
+    version: 1.0.37
+    sender: Concur_Expense
+    checksum: fd7299e7017e6a51a770be0a03747557
+  - id: IF_BusinessPartner_Sync_3b1bec
+    version: 1.0.42
+    sender: Ariba_Network
+    checksum: 8d60074e5531e118adfc1a11f85b3e1c
+  - id: IF_PurchaseOrder_Ariba_77b302
+    version: 1.0.23
+    sender: Bank_HSBC_H2H
+    checksum: b8073d80731404545e778cb95f41d7e7
+  - id: IF_Invoice_Post_52dc98
+    version: 1.0.37
+    sender: SAP_S4HANA_PRD
+    checksum: c9a98844252e2be9710beb8fabd31aa0
+  - id: IF_PurchaseOrder_Ariba_166301
+    version: 1.0.17
+    sender: SAP_S4HANA_PRD
+    checksum: a0fbf4716d1d601c9d5e4a1d393be0aa
+  - id: IF_Employee_Delta_Sync_a78bde
+    version: 1.0.48
+    sender: Workday_HCM
+    checksum: b31ee6e342bf544020177605f8233700

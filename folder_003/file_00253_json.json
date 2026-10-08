@@ -1,0 +1,12 @@
+{"d":{"results":[
+{"messageGuid":"bee74328-c49e-4efa-a56a-8ac1734b1b65","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"Concur_Expense","logStart":"2026-09-03T20:15:27.531Z","durationMs":71360,"correlationId":"8152f6afb6e82190c41f56440e5c4200"},
+{"messageGuid":"92e0de46-19cc-4ac6-a317-6c04e9f9813b","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Salesforce_CRM","logStart":"2026-02-24T08:21:12.464Z","durationMs":8731,"correlationId":"8c569fe7f611a23a0bcb713b6ba9fcd4"},
+{"messageGuid":"336ad85c-5d30-4c9a-b02f-61cc93ce3c70","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-01-24T18:44:50.787Z","durationMs":59856,"correlationId":"c03319fbcb0e9e92313c638b9cb9bd4f"},
+{"messageGuid":"0ef4d888-e105-4449-a445-98c1a6859c61","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-03-06T20:14:58.657Z","durationMs":64528,"correlationId":"73d06759e7e5a7e9d587cb2fa49ea2f8"},
+{"messageGuid":"5b17c7ab-924e-4aff-bac6-57d1e95fe6d9","iFlow":"IF_Delivery_Tracking","status":"RETRY","sender":"Concur_Expense","logStart":"2026-04-06T01:04:25.039Z","durationMs":73388,"correlationId":"893454a3d3c4915e846896bff9f0eb16"},
+{"messageGuid":"a4e1d850-89de-4b22-b782-ff328ef64836","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"Concur_Expense","logStart":"2026-01-07T18:03:06.211Z","durationMs":11760,"correlationId":"af9f2020c040a160d6ccd662547f6937"},
+{"messageGuid":"d47b15ac-1368-4515-9c9d-f78b26137abb","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-09-28T00:18:22.032Z","durationMs":15781,"correlationId":"9b984736ed85751b6eb2306484c8c6b2"},
+{"messageGuid":"cd7aad36-38ee-4883-ac0a-e08d795a618f","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-05-07T08:56:36.002Z","durationMs":57979,"correlationId":"97f426df1934c7d1005586084337ecb6"},
+{"messageGuid":"7ee910d4-f010-4abc-a8a6-24b8708c79b2","iFlow":"IF_Invoice_Post","status":"FAILED","sender":"Workday_HCM","logStart":"2026-03-01T18:26:37.338Z","durationMs":38245,"correlationId":"9a717f21ad2b1ef085cd1ffbbdd2ab75"},
+{"messageGuid":"f5939ec7-da94-403f-b7c1-95ae2f2dce74","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-04-21T06:23:58.380Z","durationMs":36823,"correlationId":"cc3a53e016db7b9a52a609c19ceb9324"},
+{}]}}

@@ -1,0 +1,73 @@
+integrationPackages:
+  - id: IF_PurchaseOrder_Ariba_228abe
+    version: 1.0.9
+    sender: SuccessFactors_EC
+    checksum: 9008da381f711fd3fe8c362d0e393086
+  - id: IF_Delivery_Tracking_2a28e4
+    version: 1.0.41
+    sender: SAP_S4HANA_PRD
+    checksum: f5c9e738d386049944e7d420524888fd
+  - id: IF_Sales_Order_Create_56a1a1
+    version: 1.0.2
+    sender: Concur_Expense
+    checksum: 3989abcfb00792f416bf7693b9763cf5
+  - id: IF_Sales_Order_Create_b58161
+    version: 1.0.60
+    sender: Salesforce_CRM
+    checksum: 43d4e78779c0a605fe610c43e7807d7d
+  - id: IF_Payment_Status_Bank_1af2ee
+    version: 1.0.56
+    sender: Ariba_Network
+    checksum: 8896487d11f1385b2626a31f8e925b16
+  - id: IF_BusinessPartner_Sync_b5e3b1
+    version: 1.0.15
+    sender: Bank_HSBC_H2H
+    checksum: 2508134d25911bb7313d66da7e8e88d0
+  - id: IF_Sales_Order_Create_f6db1d
+    version: 1.0.26
+    sender: Bank_HSBC_H2H
+    checksum: 59d0a413e6081e1884c8f60104e0d389
+  - id: IF_Sales_Order_Create_cfba42
+    version: 1.0.8
+    sender: Ariba_Network
+    checksum: bd34c545a104fdf2e4680d7b610f2161
+  - id: IF_Invoice_Post_e7e860
+    version: 1.0.76
+    sender: Workday_HCM
+    checksum: 3d60a3e88cfa2b80d1278eab00ba9e92
+  - id: IF_PurchaseOrder_Ariba_1da0e6
+    version: 1.0.36
+    sender: DHL_Logistics
+    checksum: fd11c5628944c0ff77ae01653a6b4513
+  - id: IF_Employee_Delta_Sync_022be0
+    version: 1.0.27
+    sender: Concur_Expense
+    checksum: 0678aaa37ecb08d3a584a43632709736
+  - id: IF_Material_Master_Replication_1bed82
+    version: 1.0.0
+    sender: SuccessFactors_EC
+    checksum: 699ddd2d19734ecde2a59ce9dc4ac397
+  - id: IF_Sales_Order_Create_178748
+    version: 1.0.81
+    sender: Salesforce_CRM
+    checksum: bf5ef2d630c03916577547512120f94f
+  - id: IF_Material_Master_Replication_8fdb98
+    version: 1.0.5
+    sender: Bank_HSBC_H2H
+    checksum: 737e9dd1760db2d8c7e0896e16df8bc3
+  - id: IF_Employee_Delta_Sync_79e184
+    version: 1.0.48
+    sender: SAP_S4HANA_PRD
+    checksum: 2ac2536066fb9b8bd1b650f299d3430d
+  - id: IF_Material_Master_Replication_7b5a5e
+    version: 1.0.36
+    sender: SuccessFactors_EC
+    checksum: 0660585f577ee56adee00c3411988cf2
+  - id: IF_BusinessPartner_Sync_6c1e06
+    version: 1.0.51
+    sender: Bank_HSBC_H2H
+    checksum: 56c27a5293b92a171bda461b11925e76
+  - id: IF_Invoice_Post_f8a391
+    version: 1.0.17
+    sender: Ariba_Network
+    checksum: f11cf3baedb4c206e42402b6c9e5b383

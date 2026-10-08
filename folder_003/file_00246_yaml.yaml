@@ -1,0 +1,61 @@
+integrationPackages:
+  - id: IF_BusinessPartner_Sync_8ee450
+    version: 1.0.63
+    sender: Workday_HCM
+    checksum: 4d5364b1577c7e05f5f948ebf365912f
+  - id: IF_PurchaseOrder_Ariba_da06f7
+    version: 1.0.86
+    sender: DHL_Logistics
+    checksum: ef8a01db3566ddbbf958184e29d7f3e6
+  - id: IF_Invoice_Post_f1f47b
+    version: 1.0.34
+    sender: SAP_S4HANA_PRD
+    checksum: 81f813f0261a4b69d183f2c8ef8a5286
+  - id: IF_Payment_Status_Bank_02bd1b
+    version: 1.0.29
+    sender: DHL_Logistics
+    checksum: 71563d40f8031fbd07f26948d81891e8
+  - id: IF_BusinessPartner_Sync_9042e2
+    version: 1.0.34
+    sender: Workday_HCM
+    checksum: c4fee6254ddbfc248757e3f0cc592665
+  - id: IF_Material_Master_Replication_3f3160
+    version: 1.0.23
+    sender: Bank_HSBC_H2H
+    checksum: 1e5c9eb025f8087b0d7468baff992cf5
+  - id: IF_Material_Master_Replication_266679
+    version: 1.0.87
+    sender: SuccessFactors_EC
+    checksum: a22aca4da416ae6af78bfdbb9d7ba6a3
+  - id: IF_Material_Master_Replication_a5f97e
+    version: 1.0.58
+    sender: Salesforce_CRM
+    checksum: 21e2f05d80b336447e3b9512fd4319c2
+  - id: IF_Employee_Delta_Sync_db6fa8
+    version: 1.0.28
+    sender: SuccessFactors_EC
+    checksum: 3a73d97f94e33366ea2f029e8c8255c6
+  - id: IF_Sales_Order_Create_6a40dc
+    version: 1.0.80
+    sender: SuccessFactors_EC
+    checksum: 8372b3252ec88afa676591f345d22541
+  - id: IF_Material_Master_Replication_9dc54f
+    version: 1.0.48
+    sender: DHL_Logistics
+    checksum: de54f63e2e26a95b262126e584387ae6
+  - id: IF_BusinessPartner_Sync_978bda
+    version: 1.0.53
+    sender: Bank_HSBC_H2H
+    checksum: 8574296b8aa6fd779817ee1d6a233d0f
+  - id: IF_Delivery_Tracking_b402ed
+    version: 1.0.90
+    sender: DHL_Logistics
+    checksum: d934e6950073e7dde1ecd09afa39800d
+  - id: IF_PurchaseOrder_Ariba_ff0443
+    version: 1.0.18
+    sender: SuccessFactors_EC
+    checksum: 9ef3bb4c23b1908f6f3c9885ecd81ef9
+  - id: IF_Delivery_Tracking_58ff18
+    version: 1.0.12
+    sender: DHL_Logistics
+    checksum: 98cae202a698aa411c54f595be11e622
