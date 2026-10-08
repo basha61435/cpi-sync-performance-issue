@@ -1,0 +1,11 @@
+{"d":{"results":[
+{"messageGuid":"8f8dd328-e2fc-4407-b0c5-77c7cfcedf62","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-08-11T12:36:30.842Z","durationMs":20618,"correlationId":"3c2ca3590c67a570ed21b02719247f8f"},
+{"messageGuid":"8643e37f-4e11-4a5e-a7aa-85432d349fad","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Workday_HCM","logStart":"2026-05-25T03:44:27.050Z","durationMs":89098,"correlationId":"d20bfa125c6cd38ba5750932c4d1705b"},
+{"messageGuid":"27fba2b8-295f-4b69-ad0b-ee8089cfea05","iFlow":"IF_Material_Master_Replication","status":"RETRY","sender":"Ariba_Network","logStart":"2026-09-24T08:22:14.525Z","durationMs":58655,"correlationId":"208ef26b39a2ae72aea9275966164ae0"},
+{"messageGuid":"69e33f6e-6d61-4286-bb4a-e798929f679e","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-03-17T08:11:52.460Z","durationMs":56906,"correlationId":"5beb063527db28b0631939525f4af86c"},
+{"messageGuid":"d29b1e35-1e0b-428f-9924-66b9124682c1","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-05-20T04:42:18.969Z","durationMs":40892,"correlationId":"915a664915d2cd89744289b46a54b209"},
+{"messageGuid":"8a8a374c-1b57-494d-be41-c0e8d18b5053","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-07-28T21:47:38.480Z","durationMs":83987,"correlationId":"bcfe034e9296bc135ccef1f8f2e146ca"},
+{"messageGuid":"8680851c-d7a2-4828-ba8d-f7c03b41bb71","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-06-25T19:44:26.506Z","durationMs":49068,"correlationId":"26fff866a2a7e981461b55c0132777e8"},
+{"messageGuid":"72300f1e-5f93-42db-9a1e-377d2be238d1","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-07-28T00:39:52.001Z","durationMs":12173,"correlationId":"948da7ffaf573fd6db90e7f610316877"},
+{"messageGuid":"401f546a-a324-412c-82d6-96890e86c71f","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-04-17T01:18:08.778Z","durationMs":42137,"correlationId":"2286653a8408a5827a70eb2385d0e7f6"},
+{}]}}

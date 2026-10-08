@@ -1,0 +1,14 @@
+{"d":{"results":[
+{"messageGuid":"d0db6ff6-26ee-4d7f-b0c8-7bb16b6b09c3","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-08-07T16:47:45.761Z","durationMs":24040,"correlationId":"f38920b93be83c363c1c8fc66a07cc0a"},
+{"messageGuid":"5887c8f1-69b6-4524-9e6c-0874ce851844","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-02-03T10:49:32.237Z","durationMs":45820,"correlationId":"4cc0f5702b333366eb508587e61680df"},
+{"messageGuid":"09e2d849-5dfc-4514-80eb-1bcb20b5dbd9","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-02-22T14:09:11.880Z","durationMs":43791,"correlationId":"a2c851860f5cb7e5d905983987de5277"},
+{"messageGuid":"89b5c1da-167e-40eb-83d0-968fc7f28ff4","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Ariba_Network","logStart":"2026-09-06T18:11:22.120Z","durationMs":37605,"correlationId":"5a95f7fdaf0349c1b6de725f0f2aa52b"},
+{"messageGuid":"01f49105-d893-4f70-a804-6e8c69a633e0","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-04-30T03:43:31.844Z","durationMs":56907,"correlationId":"96598621956ab8c0626b1b47cd35c922"},
+{"messageGuid":"1e707dea-cd7c-4a71-99df-8d85c78b001c","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"DHL_Logistics","logStart":"2026-07-21T13:19:04.957Z","durationMs":56597,"correlationId":"710c4cd7807ab8066e0ea4f24a8fc511"},
+{"messageGuid":"75336330-29fd-4e09-9084-38cdc073fcf6","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-09-13T08:46:15.784Z","durationMs":2928,"correlationId":"5dd77b90b1868761da1acc9c46f7b434"},
+{"messageGuid":"ba9e6da5-f56c-400c-a178-ceeaac320691","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-04-19T14:23:00.938Z","durationMs":47517,"correlationId":"dd42fca2ed56f29dc60e9a6f5f37f356"},
+{"messageGuid":"3f6ff3fe-8cd8-4542-b764-9af717decb0b","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-01-08T03:04:52.069Z","durationMs":3027,"correlationId":"6dfba2a092d2e49b8ce369967f53b57f"},
+{"messageGuid":"a3666f9f-bf29-4f82-a102-2cc444867cc5","iFlow":"IF_Sales_Order_Create","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-08-05T03:44:54.478Z","durationMs":15601,"correlationId":"accd89cb8cc4cf9617802fed46c6bcc7"},
+{"messageGuid":"23abba2e-0981-4d5c-836a-caf1cdd27f73","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-07-21T20:07:24.641Z","durationMs":80615,"correlationId":"1410b66cdaff2865511a492ca46b5c94"},
+{"messageGuid":"9bcc9246-9715-468b-a6f0-31afe2abf11d","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-06-20T01:41:43.447Z","durationMs":85451,"correlationId":"22793b218d86bf615aefc6d538262677"},
+{}]}}

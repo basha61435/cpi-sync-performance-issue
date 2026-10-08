@@ -1,0 +1,12 @@
+{"d":{"results":[
+{"messageGuid":"bc5b31ce-d975-4fbc-b522-6e0b17c6c91b","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Ariba_Network","logStart":"2026-05-11T01:07:59.740Z","durationMs":7622,"correlationId":"f1062dfcef39839679a8daffc1789e9c"},
+{"messageGuid":"f9156fe4-db37-488f-b263-ab430b16fa94","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Salesforce_CRM","logStart":"2026-05-30T16:07:19.074Z","durationMs":32656,"correlationId":"5af0ebf7093810768e519a761f639c91"},
+{"messageGuid":"8c302135-118f-4609-b2e4-261805cdd1d6","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-08-16T02:14:29.791Z","durationMs":37158,"correlationId":"0128b95b001fcf109a10feb93fda9011"},
+{"messageGuid":"093b8608-59b6-4493-b591-31493937b782","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"Bank_HSBC_H2H","logStart":"2026-03-07T02:18:37.796Z","durationMs":88818,"correlationId":"043844d9a0e7f53efa9bb807c2def171"},
+{"messageGuid":"205db1c5-8acd-41b2-a0c6-ee19fe446488","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-03-26T12:32:02.774Z","durationMs":86515,"correlationId":"aaab43ae3ed9d2ce8433c82ccd5e824e"},
+{"messageGuid":"15fcb736-7ac4-4c10-88e7-21505c04052a","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-08-20T22:59:07.766Z","durationMs":52283,"correlationId":"a693fc3b7b98a07a969cf848f5a6ba2d"},
+{"messageGuid":"d8e8b1bf-516f-4f67-8719-27fd1b55131c","iFlow":"IF_Material_Master_Replication","status":"RETRY","sender":"Workday_HCM","logStart":"2026-02-19T10:13:50.913Z","durationMs":44736,"correlationId":"9bcfa3a3879c5540597583b70fd8f247"},
+{"messageGuid":"88da0fe8-a058-4296-8cf6-1d11e5a41b52","iFlow":"IF_PurchaseOrder_Ariba","status":"FAILED","sender":"Ariba_Network","logStart":"2026-09-06T12:57:23.912Z","durationMs":34081,"correlationId":"76e5971cc1a6c80b9c084c90ff8d5d2b"},
+{"messageGuid":"d4f1e26b-949c-4c5c-bcb8-bf9cbc22f35f","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Ariba_Network","logStart":"2026-06-21T18:51:34.817Z","durationMs":19485,"correlationId":"203d15589e49a06fb5c81e65761d62c6"},
+{"messageGuid":"a77b9540-7333-4da7-8401-181d37bd0407","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"Concur_Expense","logStart":"2026-02-23T00:47:50.184Z","durationMs":18459,"correlationId":"3f24285dc6375e907650b8ef4bbb1e78"},
+{}]}}

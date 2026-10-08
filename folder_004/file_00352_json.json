@@ -1,0 +1,14 @@
+{"d":{"results":[
+{"messageGuid":"6d3bfc02-0911-47b8-a2dd-4696cc49979a","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-05-20T12:42:25.732Z","durationMs":51033,"correlationId":"4b53c58a887fb10ac7016be6948abb87"},
+{"messageGuid":"f62b16d8-a23e-450e-bf0e-f651d27e0b65","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-03-04T11:11:36.487Z","durationMs":19780,"correlationId":"a4cca2c24d9079a0e7e9737ef94afe41"},
+{"messageGuid":"584af9fe-995b-47d4-b224-75b0e547a698","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-09-03T02:50:48.771Z","durationMs":40102,"correlationId":"0730fc0883c8deb6daf368e05c72939c"},
+{"messageGuid":"0e824f9d-cf6c-483b-9cd8-571a745a9b10","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Workday_HCM","logStart":"2026-05-26T11:09:45.254Z","durationMs":21409,"correlationId":"b164c9e44941ed589b3f5d2c30d0c046"},
+{"messageGuid":"139730dc-035f-4452-bd5c-ced9ce49d641","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-03-16T06:39:15.878Z","durationMs":15249,"correlationId":"15ac9e4bd9488b0f0aabc4aa93179860"},
+{"messageGuid":"85ae0974-2fca-47be-bb58-0738c05395fd","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-01-31T08:26:55.691Z","durationMs":37860,"correlationId":"9b991c5e85f30309b23ac5c588a14aec"},
+{"messageGuid":"3e24d8ba-40da-441e-8c01-508029ae8916","iFlow":"IF_Employee_Delta_Sync","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-03-01T16:15:39.658Z","durationMs":25029,"correlationId":"85b35213f1678ec4000865d60ee5202b"},
+{"messageGuid":"07fe16bb-932c-4d33-962a-460c43a0af67","iFlow":"IF_BusinessPartner_Sync","status":"FAILED","sender":"Workday_HCM","logStart":"2026-01-05T06:37:02.270Z","durationMs":65637,"correlationId":"24522b1f2196a8e07106b6bd26a45f19"},
+{"messageGuid":"db55bf82-1047-4dde-bc1f-4caf1c1f1f1e","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-03-14T00:18:45.334Z","durationMs":48944,"correlationId":"d9f7800c966672327da8d57987d7c8bf"},
+{"messageGuid":"b33f5cb6-e933-4ef7-9ce7-8788f2686f5b","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-08-19T05:55:35.676Z","durationMs":15015,"correlationId":"412f8154c7e0c833c456aedf17ea2816"},
+{"messageGuid":"36fef13b-3d32-47cf-b1fc-b0818c516396","iFlow":"IF_Material_Master_Replication","status":"RETRY","sender":"DHL_Logistics","logStart":"2026-01-30T19:34:07.342Z","durationMs":25455,"correlationId":"46e9f5a06957264413605c7fcafe9449"},
+{"messageGuid":"e2e3abea-0faf-4bc4-bb6e-6e20aaf22997","iFlow":"IF_Payment_Status_Bank","status":"FAILED","sender":"DHL_Logistics","logStart":"2026-06-01T03:49:37.823Z","durationMs":2667,"correlationId":"312fbecc145acbb5efdefa2c841ada1d"},
+{}]}}

@@ -1,0 +1,185 @@
+integrationPackages:
+  - id: IF_Delivery_Tracking_aea040
+    version: 1.0.0
+    sender: Ariba_Network
+    checksum: 70f0fec5f19495ca207d1d8c3c745977
+  - id: IF_Employee_Delta_Sync_c713f8
+    version: 1.0.60
+    sender: DHL_Logistics
+    checksum: 257314d496cf0a0c8634d78882c4c646
+  - id: IF_Employee_Delta_Sync_853bda
+    version: 1.0.23
+    sender: Concur_Expense
+    checksum: 59b72897876684a28d17c0cd821c5e54
+  - id: IF_PurchaseOrder_Ariba_abc8da
+    version: 1.0.95
+    sender: Workday_HCM
+    checksum: b670985718ce3681ac7def4168471833
+  - id: IF_PurchaseOrder_Ariba_3d8561
+    version: 1.0.78
+    sender: Workday_HCM
+    checksum: e75a50be676e817927ff740f7343cac4
+  - id: IF_Delivery_Tracking_ec2711
+    version: 1.0.57
+    sender: DHL_Logistics
+    checksum: ce33ceeab0d6c2041943ebfb81b14310
+  - id: IF_Payment_Status_Bank_ac5feb
+    version: 1.0.51
+    sender: Ariba_Network
+    checksum: 3169c9b734700073ccbbb215bf706157
+  - id: IF_BusinessPartner_Sync_2cbb9f
+    version: 1.0.90
+    sender: Salesforce_CRM
+    checksum: e03db7270a78c96fe7f2d45b44af3cc5
+  - id: IF_Material_Master_Replication_9eceee
+    version: 1.0.79
+    sender: Bank_HSBC_H2H
+    checksum: dcd237b6481d593f3ab23bc8d6fc5676
+  - id: IF_Delivery_Tracking_ebd0bc
+    version: 1.0.13
+    sender: Workday_HCM
+    checksum: 1c697b92a0196f0d51f4bfd38532b45f
+  - id: IF_Invoice_Post_9472fa
+    version: 1.0.61
+    sender: SuccessFactors_EC
+    checksum: 178a990be3122fc677de293a7bfcd41a
+  - id: IF_Invoice_Post_66573c
+    version: 1.0.22
+    sender: Ariba_Network
+    checksum: c0622e6caf1c44731dd3692b02aaa2f0
+  - id: IF_Employee_Delta_Sync_32c43c
+    version: 1.0.78
+    sender: DHL_Logistics
+    checksum: 2a18695af040ff5f6112378adb7c6cc5
+  - id: IF_Delivery_Tracking_5f3b41
+    version: 1.0.88
+    sender: SAP_S4HANA_PRD
+    checksum: 7870831335c8271f41858e4b25cff81d
+  - id: IF_Sales_Order_Create_f60443
+    version: 1.0.96
+    sender: Concur_Expense
+    checksum: 045e391f005495c67a0fd39c291fafd9
+  - id: IF_BusinessPartner_Sync_6bfba2
+    version: 1.0.32
+    sender: DHL_Logistics
+    checksum: 8ea549bd199ca90d7f91600dcbc36cd9
+  - id: IF_Delivery_Tracking_26baf4
+    version: 1.0.23
+    sender: Concur_Expense
+    checksum: e2d1cafe73bd6b5c65843a20636b56fd
+  - id: IF_Payment_Status_Bank_0bfb14
+    version: 1.0.95
+    sender: SuccessFactors_EC
+    checksum: 143c6c137e39bc181d750f14c3c2f15e
+  - id: IF_Invoice_Post_83eed9
+    version: 1.0.51
+    sender: DHL_Logistics
+    checksum: 7c8cddd6375f1dc64c78106e4469884b
+  - id: IF_Payment_Status_Bank_0e2e4d
+    version: 1.0.62
+    sender: Workday_HCM
+    checksum: 98ffd85e7b2d7deb4d481cbe548287aa
+  - id: IF_Delivery_Tracking_439572
+    version: 1.0.11
+    sender: SAP_S4HANA_PRD
+    checksum: 58b53f8435e6a9d06890fe199adb89af
+  - id: IF_BusinessPartner_Sync_51c064
+    version: 1.0.69
+    sender: Salesforce_CRM
+    checksum: ce97841652f3064f3f439aec2f292c95
+  - id: IF_Employee_Delta_Sync_571056
+    version: 1.0.14
+    sender: Bank_HSBC_H2H
+    checksum: 62dd83cd386902ffe38203faa490f0e8
+  - id: IF_Invoice_Post_ef93c9
+    version: 1.0.55
+    sender: SAP_S4HANA_PRD
+    checksum: 084f541ab42b0f8a77de4e89ba60e6a8
+  - id: IF_Invoice_Post_c266e8
+    version: 1.0.18
+    sender: DHL_Logistics
+    checksum: 991b1ba6031c7fcb3ec0dbf617494988
+  - id: IF_Invoice_Post_577a52
+    version: 1.0.84
+    sender: Concur_Expense
+    checksum: a3293ca16f98626f662650d81b2de5bb
+  - id: IF_Payment_Status_Bank_6f95d9
+    version: 1.0.30
+    sender: Ariba_Network
+    checksum: 881d5a70d624da9ec788cbfbfaa4ba8c
+  - id: IF_Invoice_Post_a12ad1
+    version: 1.0.70
+    sender: Salesforce_CRM
+    checksum: 925b156ae94fce7a363b037bf9592ea8
+  - id: IF_Payment_Status_Bank_e09554
+    version: 1.0.42
+    sender: Concur_Expense
+    checksum: bcf209a4bb9fb1e4b439c3df0f4cdc54
+  - id: IF_Payment_Status_Bank_528d62
+    version: 1.0.91
+    sender: Workday_HCM
+    checksum: c35503299cfdd4df66d37ac5a4187ec4
+  - id: IF_Invoice_Post_c69e91
+    version: 1.0.29
+    sender: Workday_HCM
+    checksum: f05688753e0ee6f2b5b054616f59612a
+  - id: IF_PurchaseOrder_Ariba_7ed094
+    version: 1.0.30
+    sender: Ariba_Network
+    checksum: 2fbaf18f8e831734e1e389c059f83d0c
+  - id: IF_Delivery_Tracking_52929c
+    version: 1.0.74
+    sender: Salesforce_CRM
+    checksum: da678dbcccf0a52ac26e3e2e463dc7fa
+  - id: IF_BusinessPartner_Sync_6790d0
+    version: 1.0.42
+    sender: Concur_Expense
+    checksum: 8bd3f16f2c2dd75ca043f264fc163100
+  - id: IF_PurchaseOrder_Ariba_c7116f
+    version: 1.0.81
+    sender: Workday_HCM
+    checksum: 31cacd2c8eb6afc51ccef7f629f4354d
+  - id: IF_Payment_Status_Bank_589ce5
+    version: 1.0.12
+    sender: Salesforce_CRM
+    checksum: 5a3fe50475c3f5f3e0d1846d1c4898de
+  - id: IF_PurchaseOrder_Ariba_7b5e31
+    version: 1.0.55
+    sender: Bank_HSBC_H2H
+    checksum: caa48af467da48faaa149e71af44e773
+  - id: IF_PurchaseOrder_Ariba_469070
+    version: 1.0.59
+    sender: Bank_HSBC_H2H
+    checksum: a3366dad4fc9d732fa36bd96ff3d0229
+  - id: IF_Invoice_Post_2c5c62
+    version: 1.0.8
+    sender: Bank_HSBC_H2H
+    checksum: ff29059089c871590760fee4039931e8
+  - id: IF_Delivery_Tracking_2daa14
+    version: 1.0.0
+    sender: Salesforce_CRM
+    checksum: 7c204ae3de94124a208d5b4a97525839
+  - id: IF_Invoice_Post_8ff1ff
+    version: 1.0.50
+    sender: SuccessFactors_EC
+    checksum: 7291ec0d6ac1464d9db886d43a41dd18
+  - id: IF_PurchaseOrder_Ariba_e89a65
+    version: 1.0.14
+    sender: Salesforce_CRM
+    checksum: 7cfa19a5e3aaa8de24c9bfdd3cafeebe
+  - id: IF_Sales_Order_Create_3c8e07
+    version: 1.0.31
+    sender: SAP_S4HANA_PRD
+    checksum: b3af6003489981be28abfc4a047e495a
+  - id: IF_BusinessPartner_Sync_afaffb
+    version: 1.0.34
+    sender: Concur_Expense
+    checksum: c5e386c17b315ae61e166abe78dc7465
+  - id: IF_Material_Master_Replication_fcc6c4
+    version: 1.0.89
+    sender: Bank_HSBC_H2H
+    checksum: 16a36d3cbd606b79b20b07e74963c06b
+  - id: IF_BusinessPartner_Sync_bf5ebf
+    version: 1.0.14
+    sender: Concur_Expense
+    checksum: 3cccc264c22f12c3d76942dc56e75e78

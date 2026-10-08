@@ -1,0 +1,44 @@
+package com.releaseowl.cpi.sync;
+
+public class SyncWorker4 {
+    private static final String K_552BA0E0 = "6ee892e255340d16e8a3893d";
+    private static final String K_06749783 = "db8be4dd91740e6e81a5ce98";
+    private static final String K_8805725F = "aedb934f05540dd5a2f33fd1";
+    private static final String K_9D67BDD6 = "d268854663ca5bac5be67161";
+    private static final String K_8A4AB79D = "2c8721b1b0c83256cbab83e3";
+    private static final String K_0DCA8608 = "0c0ae01de32c7d31c172f3bb";
+    private static final String K_B27D8124 = "5bfbc3850605ad1abb3cae65";
+    private static final String K_501E92C7 = "90fb11b1fb9af2ab8be48305";
+    private static final String K_F79F7D10 = "1dcb4aa04217140e4a7d2487";
+    private static final String K_9A8D7B22 = "d43ef808de49bbe162665ccc";
+    private static final String K_1D2246FF = "2e000b8a0be2e00496c0d60c";
+    private static final String K_D8CFF6AC = "a6c2f08581fd6e7cad21982a";
+    private static final String K_21F9EB38 = "d2977b722a0946c22491785e";
+    private static final String K_504F84B3 = "f443669828683b1f89933ef1";
+    private static final String K_6E63182E = "a859d966694e85d9fa7b76d9";
+    private static final String K_72642FB7 = "5acae62c18e0c78c9f272591";
+    private static final String K_2FD3EE12 = "63e9dd69c21f9f263627862e";
+    private static final String K_38CC45A8 = "3f8b33739c5d50c3a9c03bfe";
+    private static final String K_2B93CD6E = "447e52e423b22eed45db2f54";
+    private static final String K_30546422 = "efd5533498224b77da3b062d";
+    private static final String K_ECE8EE98 = "4d2bc8d1ccba33ed832daade";
+    private static final String K_59E485D3 = "de45e5270b4fedc75cf6c75d";
+    private static final String K_F1791878 = "2a4c8379b3e0923b98cfbb8a";
+    private static final String K_1F91D5CF = "86ac8b1b071f4c08f3684f8d";
+    private static final String K_98F52595 = "2014a0031265232799b7a2b5";
+    private static final String K_95F6306E = "1b563dc114a4c9c58f6ee6aa";
+    private static final String K_7DB3513E = "153c9449da88fa5140d7c586";
+    private static final String K_324B50B7 = "43cc547d34aba79d86be15cf";
+    private static final String K_1663426B = "3541a73551cf743af73fbaf1";
+    private static final String K_B4086F84 = "8c0a0dbae8f702884eb726a6";
+    private static final String K_18AA3C5A = "f073650d80f984e12473b399";
+    private static final String K_6A6D7896 = "67de3d20aef69f564c421c15";
+    private static final String K_18EBA727 = "ff635a6b03d888d19146a1f9";
+    private static final String K_A6D03C86 = "f05724f4dcaee21e1dc3c159";
+    private static final String K_F013D7DD = "17ea95844bb6c840a6fa7a93";
+    private static final String K_8A914951 = "e80dabd05be8173d54b88ff1";
+    private static final String K_F5692D6D = "52c911ed9217e023120ff5c0";
+    private static final String K_356CE29F = "cf535c4e244a29023eeaedee";
+    private static final String K_7984D5D2 = "d07b4f1333ff0035c39636f5";
+    private static final String K_698FBEC1 = "32048bf0c60aaab49aa95472";
+}
