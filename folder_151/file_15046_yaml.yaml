@@ -1,0 +1,65 @@
+integrationPackages:
+  - id: IF_Payment_Status_Bank_79cc9f
+    version: 1.0.20
+    sender: Bank_HSBC_H2H
+    checksum: f5241fcc602287fae9cd26526b37c15b
+  - id: IF_Invoice_Post_5d3b88
+    version: 1.0.84
+    sender: Bank_HSBC_H2H
+    checksum: 6db0d62a7d55c1b3db36a3654906d281
+  - id: IF_Delivery_Tracking_0a3bc1
+    version: 1.0.0
+    sender: Bank_HSBC_H2H
+    checksum: 18236cc657e8089e037e21c0aa606e93
+  - id: IF_Material_Master_Replication_f1b5f1
+    version: 1.0.58
+    sender: SAP_S4HANA_PRD
+    checksum: 746fc4a9998ae736ceedf4642fb46649
+  - id: IF_Payment_Status_Bank_3d9427
+    version: 1.0.75
+    sender: Ariba_Network
+    checksum: a2b6f9e7778a2bd63d8582b33a2e8fa2
+  - id: IF_Payment_Status_Bank_69d1ba
+    version: 1.0.9
+    sender: SAP_S4HANA_PRD
+    checksum: 57dd6c657efddd99c476c439cb4fe795
+  - id: IF_Invoice_Post_66f98d
+    version: 1.0.4
+    sender: DHL_Logistics
+    checksum: 414372e423f12658c899eb72bf3ef4ad
+  - id: IF_Invoice_Post_ad1874
+    version: 1.0.15
+    sender: SAP_S4HANA_PRD
+    checksum: 17af6facb17ad6220df5365910b37da9
+  - id: IF_BusinessPartner_Sync_14168c
+    version: 1.0.6
+    sender: Ariba_Network
+    checksum: d4d22703125e13241f2390c9159a3f72
+  - id: IF_Sales_Order_Create_522911
+    version: 1.0.69
+    sender: Workday_HCM
+    checksum: 804eff7ee04b7e76417eeb05d191d6cf
+  - id: IF_BusinessPartner_Sync_17199d
+    version: 1.0.37
+    sender: Ariba_Network
+    checksum: 7c10465501dff983b353c7ae9f991654
+  - id: IF_Delivery_Tracking_f0b18d
+    version: 1.0.38
+    sender: DHL_Logistics
+    checksum: f8322d90a8109406160c268c0185ca09
+  - id: IF_Material_Master_Replication_900392
+    version: 1.0.17
+    sender: Concur_Expense
+    checksum: 7b49af7946a86c863411674c69c8595a
+  - id: IF_BusinessPartner_Sync_8ec567
+    version: 1.0.90
+    sender: DHL_Logistics
+    checksum: bccddbe2652116f7ff6221ca218c5b9b
+  - id: IF_Delivery_Tracking_de45c1
+    version: 1.0.85
+    sender: Bank_HSBC_H2H
+    checksum: 9cff4bad7e6fcc4a25d694a649ef6b91
+  - id: IF_Material_Master_Replication_9944ba
+    version: 1.0.22
+    sender: SAP_S4HANA_PRD
+    checksum: a236d9b1da0626d6d31d67efedd8fb58

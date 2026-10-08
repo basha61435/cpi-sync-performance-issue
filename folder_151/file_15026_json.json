@@ -1,0 +1,12 @@
+{"d":{"results":[
+{"messageGuid":"2ac71ca1-39db-4ad2-8cd6-0df018386f61","iFlow":"IF_BusinessPartner_Sync","status":"COMPLETED","sender":"SuccessFactors_EC","logStart":"2026-08-18T04:19:32.932Z","durationMs":64917,"correlationId":"4a3ac16670d1d11749fbdd81e7de459f"},
+{"messageGuid":"a7cf3879-06e5-4215-9c13-f6b42a03b034","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Ariba_Network","logStart":"2026-01-06T10:24:48.655Z","durationMs":39292,"correlationId":"e3ee938663a78502c4a836fdb7d40998"},
+{"messageGuid":"214c05e6-6b54-4241-9a57-84828c5a0699","iFlow":"IF_PurchaseOrder_Ariba","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-03-22T03:12:52.170Z","durationMs":44844,"correlationId":"df8fa1c654fd256086e58fc7b1d550cb"},
+{"messageGuid":"daecaf74-71a7-449b-89ff-e97525e57d60","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-04-21T20:28:12.713Z","durationMs":7423,"correlationId":"0b2d83aaf5c2a8f2dca1d3e839ccd507"},
+{"messageGuid":"92746a9e-4136-4080-9d63-e7a7fbcdfe4a","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-07-20T13:59:53.217Z","durationMs":10761,"correlationId":"b71e8a5e6214f61c4bf781c0e900a06b"},
+{"messageGuid":"40b50880-0aa3-4ebb-bc90-8a1ccbab4e3a","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Workday_HCM","logStart":"2026-05-20T04:47:13.338Z","durationMs":21433,"correlationId":"6e0d092b79e0cf50f444360143900dc6"},
+{"messageGuid":"bea890a9-d4fa-4626-92a0-69685263faac","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"SuccessFactors_EC","logStart":"2026-07-28T14:14:15.050Z","durationMs":10307,"correlationId":"3bf01f9527bed41244b5aefd00713b5c"},
+{"messageGuid":"74772785-5c0a-4062-84b9-65c0d75013dc","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-07-06T06:00:56.424Z","durationMs":29215,"correlationId":"a35f23658d817889b70d819f365739ba"},
+{"messageGuid":"33b75aae-812d-4a86-ba7d-c7b3301ad1af","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-09-23T00:44:19.361Z","durationMs":88889,"correlationId":"c4d0bbc46c4b112a220f3cfd061a182f"},
+{"messageGuid":"7f3fd827-33e6-4b53-bab4-0f21ca6db84f","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"SAP_S4HANA_PRD","logStart":"2026-02-23T11:12:54.070Z","durationMs":6136,"correlationId":"0c4507d3fa2e7e5b34ca70154a8e4721"},
+{}]}}

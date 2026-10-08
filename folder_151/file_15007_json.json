@@ -1,0 +1,11 @@
+{"d":{"results":[
+{"messageGuid":"78b6f688-b7c3-44b2-a7da-110f61adda28","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-03-30T11:56:28.291Z","durationMs":32116,"correlationId":"0c0dedcfc041ae0f436868fb702bd93d"},
+{"messageGuid":"29c29b07-2fdc-4f94-be27-c99e8b9d49c9","iFlow":"IF_PurchaseOrder_Ariba","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-08-16T20:17:01.565Z","durationMs":39434,"correlationId":"8c736e0dbd546eada602904a34d1296b"},
+{"messageGuid":"516c3483-19d4-4bf6-ba83-a2f779872dd5","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"Ariba_Network","logStart":"2026-07-14T09:07:41.966Z","durationMs":65705,"correlationId":"031b817ad293a9d2a5c1621def1c89ea"},
+{"messageGuid":"97c8795e-f833-419e-8863-3878f8bc67e2","iFlow":"IF_Sales_Order_Create","status":"COMPLETED","sender":"Workday_HCM","logStart":"2026-07-06T08:57:31.611Z","durationMs":56348,"correlationId":"17a52114c73fec6fc5b0e4addbdba32c"},
+{"messageGuid":"5774eab1-dd4e-406a-be82-8a2103f565e2","iFlow":"IF_Delivery_Tracking","status":"RETRY","sender":"Concur_Expense","logStart":"2026-05-26T15:37:33.258Z","durationMs":76139,"correlationId":"11219e29b845a63e0153a2a33305867a"},
+{"messageGuid":"e193b9af-9460-4dc3-af8d-873880fdd599","iFlow":"IF_Delivery_Tracking","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-04-09T21:33:19.196Z","durationMs":75806,"correlationId":"537128b63fbf23cc60c02bc7b5bc5346"},
+{"messageGuid":"490344ef-8919-4e0e-942b-bcc22cf5b916","iFlow":"IF_Sales_Order_Create","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-02-06T01:55:55.896Z","durationMs":35439,"correlationId":"762556e2c35bb5719519f3e4ddbce9db"},
+{"messageGuid":"e3cfdcff-9408-452c-90e2-d80305e31cb7","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-06-06T12:00:55.864Z","durationMs":47955,"correlationId":"4cb969d461372b9966beadfa7730e420"},
+{"messageGuid":"33d2cad4-67e2-4c28-9c60-4ff3f8ea44d3","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"Ariba_Network","logStart":"2026-09-09T03:14:04.512Z","durationMs":87501,"correlationId":"ffbbac677bc7c6c688b94b77bb36c83b"},
+{}]}}

@@ -1,0 +1,9 @@
+{"d":{"results":[
+{"messageGuid":"8ef12d73-19d2-4cb9-8245-54cc081cbcd6","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Workday_HCM","logStart":"2026-01-10T23:31:51.971Z","durationMs":26041,"correlationId":"0e4553bcd447a26c1d457a827947f3cd"},
+{"messageGuid":"13af98d2-7da7-4fe8-b13d-a080c04fcb36","iFlow":"IF_Sales_Order_Create","status":"FAILED","sender":"Workday_HCM","logStart":"2026-09-29T03:10:18.528Z","durationMs":52014,"correlationId":"3e04b8e967261c5f283459d89deeadce"},
+{"messageGuid":"130da95e-5203-48b1-8f4c-8ce60f95c1b5","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-04-13T08:02:55.023Z","durationMs":11641,"correlationId":"0c08ab642a81c034cdd73b4ae6d19907"},
+{"messageGuid":"e0f1603a-f5eb-4de3-81a7-e6a65a463b45","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"Workday_HCM","logStart":"2026-08-19T05:48:48.300Z","durationMs":32098,"correlationId":"15a47b832ab911577864c7e2e1331e8f"},
+{"messageGuid":"f657b944-1a99-4f72-8b74-53b23d1ee50c","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-01-16T10:22:36.772Z","durationMs":44905,"correlationId":"f4d71adac47aeb7a301af469e698f031"},
+{"messageGuid":"21102362-e73e-4c54-aa1c-ebd4cdba4ade","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"Salesforce_CRM","logStart":"2026-07-03T23:38:27.758Z","durationMs":34843,"correlationId":"ae3e7e4b7286e62a048ed841e7ec353e"},
+{"messageGuid":"5444a929-8eee-4ccf-8e22-a5a58a8d218a","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Concur_Expense","logStart":"2026-05-25T22:39:33.289Z","durationMs":77976,"correlationId":"cab4114c4bae635c4b7428abd1161560"},
+{}]}}

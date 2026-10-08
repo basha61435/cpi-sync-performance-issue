@@ -1,0 +1,10 @@
+{"d":{"results":[
+{"messageGuid":"c0830201-faf1-4097-8653-45800e94440d","iFlow":"IF_Material_Master_Replication","status":"COMPLETED","sender":"Concur_Expense","logStart":"2026-06-15T16:34:21.440Z","durationMs":65528,"correlationId":"c535f45c5c0e6f936c914de7658b40cc"},
+{"messageGuid":"362c4709-75a8-44a4-a983-6c3f7b3b007f","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-06-11T14:39:18.469Z","durationMs":25132,"correlationId":"59d7a5b91a7eb96288d58fbf1587edea"},
+{"messageGuid":"bfe01901-59d1-4160-b651-495456dbaab7","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"Bank_HSBC_H2H","logStart":"2026-04-22T03:37:27.286Z","durationMs":42897,"correlationId":"4d1b589cc5eb4a94fd8978df8742e4a1"},
+{"messageGuid":"b9492bf6-5fb3-4722-b3b3-92289c894370","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Ariba_Network","logStart":"2026-09-25T01:53:28.158Z","durationMs":86071,"correlationId":"8ea40e2d65409323b29976ffccc715aa"},
+{"messageGuid":"15ea16c2-2204-4cb9-bed2-7cb0de369d6c","iFlow":"IF_Invoice_Post","status":"FAILED","sender":"Workday_HCM","logStart":"2026-03-01T06:39:49.730Z","durationMs":12911,"correlationId":"1b6e3eb3aadc6c79042b9eeb3e1c7771"},
+{"messageGuid":"76f661f6-2d78-4234-92ac-6ef11d3f7956","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"Ariba_Network","logStart":"2026-07-10T07:41:05.061Z","durationMs":50828,"correlationId":"56b2cf2dc27cfb2bbdfc0201a615b477"},
+{"messageGuid":"79abda71-78e4-48d9-85a7-3b4bc9865585","iFlow":"IF_Invoice_Post","status":"COMPLETED","sender":"DHL_Logistics","logStart":"2026-08-29T11:09:09.978Z","durationMs":2993,"correlationId":"a8d2bbb42f31cc33f439908d166d39d8"},
+{"messageGuid":"2db9937e-58a4-48c9-8e26-01f4b881e447","iFlow":"IF_Employee_Delta_Sync","status":"FAILED","sender":"Ariba_Network","logStart":"2026-02-09T20:39:51.891Z","durationMs":56403,"correlationId":"9f51b0e2846aa8177a7d58f1d3b257bd"},
+{}]}}
