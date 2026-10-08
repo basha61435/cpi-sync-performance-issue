@@ -1,0 +1,13 @@
+{"d":{"results":[
+{"messageGuid":"b23435ea-b56f-46b3-8659-21254f3664c8","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-03-13T04:33:03.917Z","durationMs":50703,"correlationId":"884a85d80b89ec5e30871ff24578b586"},
+{"messageGuid":"0e4e22e1-60fc-40e0-9940-8a173c5f49ba","iFlow":"IF_PurchaseOrder_Ariba","status":"RETRY","sender":"SuccessFactors_EC","logStart":"2026-02-22T16:54:35.071Z","durationMs":85184,"correlationId":"1630488a90151c85ef3ed381afe773e4"},
+{"messageGuid":"d1544f8d-896c-4fa3-bf1b-f33f044c4d84","iFlow":"IF_Delivery_Tracking","status":"FAILED","sender":"Concur_Expense","logStart":"2026-05-29T20:58:35.493Z","durationMs":84681,"correlationId":"566c789d24841665e927f28dc70d3c65"},
+{"messageGuid":"2279e839-eff6-4717-ad53-1a85c5975694","iFlow":"IF_Invoice_Post","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-06-11T07:54:08.683Z","durationMs":69991,"correlationId":"3bf7eddd8347b06d7147668c4c234fbc"},
+{"messageGuid":"2736829e-72ff-4f37-a311-600eebb3b9aa","iFlow":"IF_Employee_Delta_Sync","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-07-12T12:11:02.006Z","durationMs":65120,"correlationId":"5be63c88e1d5b4d67dcec7b0c422df14"},
+{"messageGuid":"e1e2fb09-fb4f-48af-91ee-96c6d94c0445","iFlow":"IF_Delivery_Tracking","status":"COMPLETED","sender":"Salesforce_CRM","logStart":"2026-06-06T23:09:32.066Z","durationMs":55208,"correlationId":"388212d44281421c7760991a01b0ee96"},
+{"messageGuid":"f151e146-5538-42aa-b4ad-635f3a0db086","iFlow":"IF_BusinessPartner_Sync","status":"RETRY","sender":"DHL_Logistics","logStart":"2026-09-23T23:10:49.373Z","durationMs":55431,"correlationId":"e6513c5260e421d6129b99505ccee658"},
+{"messageGuid":"2da54313-7265-4804-a003-8cf4926b56e8","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"Workday_HCM","logStart":"2026-08-02T00:02:08.224Z","durationMs":420,"correlationId":"ff8bc625b65fb0bea762dc4c909ed0a5"},
+{"messageGuid":"39c41c7a-3453-44e1-8d82-11c0d1eae437","iFlow":"IF_Payment_Status_Bank","status":"RETRY","sender":"SAP_S4HANA_PRD","logStart":"2026-08-24T14:57:41.370Z","durationMs":8346,"correlationId":"45fb6dfa339cbef42f26697296f9d5e4"},
+{"messageGuid":"9790a161-fb72-429b-9e7b-043300ae5525","iFlow":"IF_Material_Master_Replication","status":"FAILED","sender":"Concur_Expense","logStart":"2026-02-12T20:16:53.938Z","durationMs":44514,"correlationId":"f6f1389a3ff1b16de39d2ae81ed1bf70"},
+{"messageGuid":"bbefbd0b-8ae5-4b40-b0c6-74db3a0f108e","iFlow":"IF_PurchaseOrder_Ariba","status":"COMPLETED","sender":"SAP_S4HANA_PRD","logStart":"2026-03-13T06:42:15.188Z","durationMs":40372,"correlationId":"4ceb96c5f8df08a3dd0c80bd1686392c"},
+{}]}}
