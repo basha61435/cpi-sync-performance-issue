@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="F_b3e024043e" type="xs:string"/>
+  <xs:element name="F_74e35c4193" type="xs:string"/>
+  <xs:element name="F_0d46e9b91e" type="xs:string"/>
+  <xs:element name="F_7d034e390a" type="xs:string"/>
+  <xs:element name="F_01fdb767f9" type="xs:string"/>
+  <xs:element name="F_2f201fed70" type="xs:string"/>
+  <xs:element name="F_decaa3d0c0" type="xs:string"/>
+  <xs:element name="F_9de5cb5fbc" type="xs:string"/>
+  <xs:element name="F_3468b1be22" type="xs:string"/>
+  <xs:element name="F_9b88e96b82" type="xs:string"/>
+  <xs:element name="F_4a5add4c0d" type="xs:string"/>
+  <xs:element name="F_6a0b2ccc7c" type="xs:string"/>
+  <xs:element name="F_ebc8f5de94" type="xs:string"/>
+  <xs:element name="F_8651cdf16d" type="xs:string"/>
+  <xs:element name="F_147f30c1d1" type="xs:string"/>
+  <xs:element name="F_59dace1da0" type="xs:string"/>
+  <xs:element name="F_cc10308277" type="xs:string"/>
+  <xs:element name="F_d490a6e0f3" type="xs:string"/>
+  <xs:element name="F_517aba92f2" type="xs:string"/>
+  <xs:element name="F_892117f24f" type="xs:string"/>
+  <xs:element name="F_c23692341e" type="xs:string"/>
+  <xs:element name="F_761b121c87" type="xs:string"/>
+  <xs:element name="F_b9b01eb225" type="xs:string"/>
+  <xs:element name="F_ce53e2a717" type="xs:string"/>
+  <xs:element name="F_28df4f7cdc" type="xs:string"/>
+  <xs:element name="F_5a76da15cd" type="xs:string"/>
+  <xs:element name="F_36465ec6f8" type="xs:string"/>
+  <xs:element name="F_03dada492f" type="xs:string"/>
+  <xs:element name="F_042113ed3f" type="xs:string"/>
+</xs:schema>
