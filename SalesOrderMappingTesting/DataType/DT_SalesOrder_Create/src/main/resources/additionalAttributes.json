@@ -1,0 +1,1 @@
+{"schemaValidationError":"false","Description":"Sales order header and items sent from webshop to S/4HANA (API_SALES_ORDER_SRV)","qualifySchema":"0","BundleVersion":"1.0.4","contentmodel":"X","namespace":"http://releaseowl.com/s4hana/sd/salesorder","modifiedInCPI":"true","BundleSymbolicName":"DT_SalesOrder_Create","category":"Complex Type","classification":"Free-Style Data Type"}

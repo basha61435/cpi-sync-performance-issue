@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FMT_SalesOrder_Create_Fault
+Bundle-SymbolicName: FMT_SalesOrder_Create_Fault
+Bundle-Version: 1.0.2
+SAP-BundleType: FaultMessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: faultmessagetype.FMT_SalesOrder_Create_Fault;version
+ :Version="1.0.2"
+
