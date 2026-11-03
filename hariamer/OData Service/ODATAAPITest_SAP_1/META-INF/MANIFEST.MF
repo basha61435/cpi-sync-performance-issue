@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: ODATAAPITest_SAP_1; singleton:=true
 Bundle-Name: ODATAAPITest
-Bundle-Version: 1.0.2
+Bundle-Version: 1.0.0
 Bundle-ManifestVersion: 2
 SAP-ArtifactTrait: 
 SAP-NodeType: IFLMAP
