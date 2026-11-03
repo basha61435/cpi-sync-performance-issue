@@ -1,5 +1,0 @@
-
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://releaseowl.com/s4hana/sd/salesorder" targetNamespace="http://releaseowl.com/s4hana/sd/salesorder">
-   <xsd:include schemaLocation="dt://schema?key=DT_SalesOrder_Create|DT_SalesOrder_Create" />
-   <xsd:element name="MT_SalesOrder_Create" type="DT_SalesOrder_Create" />
-</xsd:schema>

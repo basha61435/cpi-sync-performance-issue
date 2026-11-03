@@ -1,1 +1,0 @@
-{"dtUniqueIdinMT":"DT_SalesOrder_Create","Description":"Outbound sales order create message from webshop to S/4HANA","BundleVersion":"1.0.2","dtUsedinMT":"DT_SalesOrder_Create","namespace":"http://releaseowl.com/s4hana/sd/salesorder","modifiedInCPI":"true","BundleSymbolicName":"MT_SalesOrder_Create"}
