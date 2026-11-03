@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MT_SalesOrder_Create
+Bundle-SymbolicName: MT_SalesOrder_Create
+Bundle-Version: 1.0.2
+SAP-BundleType: MessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: messagetype.MT_SalesOrder_Create;version:Version="1.
+ 0.2"
+
