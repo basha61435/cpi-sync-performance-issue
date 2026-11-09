@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: iflow-1
+Bundle-Name: IF_L_CRT_SalesOrder_To_S4_EXP2
 Bundle-SymbolicName: iflow-1; singleton:=true
-Bundle-Version: 1.0.3
+Bundle-Version: 1.0.5
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
