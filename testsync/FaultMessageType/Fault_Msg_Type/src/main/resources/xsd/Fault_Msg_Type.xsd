@@ -1,0 +1,13 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="xml_fault_message_type" xmlns:p2="testing" targetNamespace="xml_fault_message_type">
+   <xsd:include schemaLocation="dt://schema?key=ExchangeFaultData|ExchangeFaultData_f8573e515f7a969ad433b26deebc0863" />
+   <xsd:import namespace="testing" schemaLocation="dt://schema?key=Data Type|Data_Type" />
+   <xsd:element name="Fault_Msg_Type">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="standard" type="ExchangeFaultData" />
+            <xsd:element name="addition" type="p2:Data Type" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+</xsd:schema>

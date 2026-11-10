@@ -1,0 +1,11 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="xml_fault_message_type" targetNamespace="xml_fault_message_type">
+   <xsd:include schemaLocation="dt://schema?key=ExchangeLogData|ExchangeLogData_a7ae1649c588517a46d7f3b1c8c7966e" />
+   <xsd:complexType name="ExchangeFaultData">
+      <xsd:sequence>
+         <xsd:element name="faultText" type="xsd:string" />
+         <xsd:element name="faultUrl" type="xsd:string" minOccurs="0" />
+         <xsd:element name="faultDetail" type="ExchangeLogData" minOccurs="0" maxOccurs="unbounded" />
+      </xsd:sequence>
+   </xsd:complexType>
+</xsd:schema>

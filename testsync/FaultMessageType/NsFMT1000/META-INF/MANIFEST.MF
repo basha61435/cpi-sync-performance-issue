@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NsFMT1000
+Bundle-SymbolicName: NsFMT1000
+Bundle-Version: 1.0.0
+SAP-BundleType: FaultMessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: faultmessagetype.NsFMT1000;version:Version="1.0.0"
+

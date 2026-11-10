@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NsLenDT1000b
+Bundle-SymbolicName: NsLenDT1000b
+Bundle-Version: 1.0.0
+SAP-BundleType: DataType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: datatype.NsLenDT1000b;version:Version="1.0.0"
+

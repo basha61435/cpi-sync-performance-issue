@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><projectDescription>
+   <name>ExchangeLogData_95a6a275cccb3f3a02ddadd5e4ec6686</name>
+   <comment/>
+   <projects/>
+   <buildSpec>
+      <buildCommand>
+         <name>org.eclipse.jdt.core.javabuilder</name>
+         <arguments/>
+      </buildCommand>
+   </buildSpec>
+   <natures>
+      <nature>org.eclipse.jdt.core.javanature</nature>
+      <nature>com.sap.ide.ifl.project.support.project.nature</nature>
+      <nature>com.sap.ide.ifl.bsn</nature>
+   </natures>
+</projectDescription>

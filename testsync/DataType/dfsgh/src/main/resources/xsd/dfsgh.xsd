@@ -1,0 +1,11 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="dfghdfgh" targetNamespace="dfghdfgh">
+   <xsd:simpleType name="dfsgh">
+      <xsd:annotation>
+         <xsd:documentation xml:lang="EN">
+         dfghdfghdfgh
+         </xsd:documentation>
+      </xsd:annotation>
+      <xsd:restriction base="xsd:string" />
+   </xsd:simpleType>
+</xsd:schema>

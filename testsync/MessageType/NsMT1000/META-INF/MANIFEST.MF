@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NsMT1000
+Bundle-SymbolicName: NsMT1000
+Bundle-Version: 1.0.0
+SAP-BundleType: MessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: messagetype.NsMT1000;version:Version="1.0.0"
+

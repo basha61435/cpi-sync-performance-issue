@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExchangeLogData
+Bundle-SymbolicName: ExchangeLogData_a7ae1649c588517a46d7f3b1c8c7966e
+Bundle-Version: 1.0.0
+SAP-BundleType: DataType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: datatype.ExchangeLogData_a7ae1649c588517a46d7f3b1c8c
+ 7966e;version:Version="1.0.0"
+

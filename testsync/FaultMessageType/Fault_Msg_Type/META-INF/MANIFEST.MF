@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fault_Msg_Type
+Bundle-SymbolicName: Fault_Msg_Type
+Bundle-Version: 1.0.0
+SAP-BundleType: FaultMessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: faultmessagetype.Fault_Msg_Type;version:Version="1.0
+ .0"
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExchangeFaultData
+Bundle-SymbolicName: ExchangeFaultData_f8573e515f7a969ad433b26deebc0863
+Bundle-Version: 1.0.0
+SAP-BundleType: DataType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: datatype.ExchangeFaultData_f8573e515f7a969ad433b26de
+ ebc0863;version:Version="1.0.0"
+
