@@ -1,0 +1,5 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="xml_message_type" xmlns:p1="testing" targetNamespace="xml_message_type">
+   <xsd:import namespace="testing" schemaLocation="dt://schema?key=Data Type|Data_Type" />
+   <xsd:element name="Message Type" type="p1:Data Type" />
+</xsd:schema>

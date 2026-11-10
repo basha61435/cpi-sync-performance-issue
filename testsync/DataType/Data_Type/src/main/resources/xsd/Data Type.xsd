@@ -1,0 +1,16 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="testing" targetNamespace="testing">
+   <xsd:complexType name="Data Type">
+      <xsd:annotation>
+         <xsd:documentation xml:lang="EN">
+         desc test
+         </xsd:documentation>
+      </xsd:annotation>
+      <xsd:simpleContent>
+         <xsd:extension base="xsd:anyURI">
+            <xsd:attribute name="Attribute1" type="xsd:string" />
+            <xsd:attribute name="Attribute2" type="xsd:string" />
+         </xsd:extension>
+      </xsd:simpleContent>
+   </xsd:complexType>
+</xsd:schema>

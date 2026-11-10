@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Message Type
+Bundle-SymbolicName: Message_Type
+Bundle-Version: 1.0.0
+SAP-BundleType: MessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: messagetype.Message_Type;version:Version="1.0.0"
+
