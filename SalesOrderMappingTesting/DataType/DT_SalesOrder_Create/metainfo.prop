@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Tue Nov 10 09:42:45 UTC 2026
+description=Sales order header and items sent from webshop to S/4HANA (API_SALES_ORDER_SRV)

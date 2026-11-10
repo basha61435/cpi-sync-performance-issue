@@ -1,0 +1,13 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://releaseowl.com/sd/salesorder" xmlns:p1="http://releaseowl.com/s4hana/sd/salesorder" targetNamespace="http://releaseowl.com/sd/salesorder">
+   <xsd:include schemaLocation="dt://schema?key=ExchangeFaultData|ExchangeFaultData_e53f159fecb36c3860fc9315b5b6bba9" />
+   <xsd:import namespace="http://releaseowl.com/s4hana/sd/salesorder" schemaLocation="dt://schema?key=DT_SalesOrder_Create|DT_SalesOrder_Create" />
+   <xsd:element name="FMT_SalesOrder_Create_Fault">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="standard" type="ExchangeFaultData" />
+            <xsd:element name="addition" type="p1:DT_SalesOrder_Create" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+</xsd:schema>
