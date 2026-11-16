@@ -82,10 +82,10 @@
                 </ifl:property>
             </bpmn2:extensionElements>
         </bpmn2:participant>
-        <bpmn2:participant id="Participant_Process_1" ifl:type="IntegrationProcess" name="Integration Process" processRef="Process_1">
+        <bpmn2:participant id="Participant_Process_12" ifl:type="IntegrationProcess" name="Handle Request" processRef="Process_12">
             <bpmn2:extensionElements/>
         </bpmn2:participant>
-        <bpmn2:participant id="Participant_Process_12" ifl:type="IntegrationProcess" name="Handle Request" processRef="Process_12">
+        <bpmn2:participant id="Participant_Process_1" ifl:type="IntegrationProcess" name="Integration Process" processRef="Process_1">
             <bpmn2:extensionElements/>
         </bpmn2:participant>
         <bpmn2:messageFlow id="MessageFlow_19" name="SOAP" sourceRef="Participant_1" targetRef="StartEvent_2">

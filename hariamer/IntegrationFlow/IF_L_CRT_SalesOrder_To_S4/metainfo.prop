@@ -1,3 +1,0 @@
-#Store metainfo properties
-#Tue Nov 10 09:42:21 UTC 2026
-description=Receives sales order JSON from source system, validates it, transforms it, and sends it to SAP S/4HANA.
