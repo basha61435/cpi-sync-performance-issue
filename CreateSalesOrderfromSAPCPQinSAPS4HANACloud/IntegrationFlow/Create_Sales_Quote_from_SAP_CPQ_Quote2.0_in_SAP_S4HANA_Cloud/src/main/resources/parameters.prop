@@ -1,0 +1,26 @@
+#Mon Nov 23 12:57:42 UTC 2026
+CPQ\ Grant\ Type=password
+CPQCredentials=
+CPQ_AuthenticationType=
+CPQ_Domain=
+CPQ_Quote2Order_PostExit=
+ConnectionTimeout=60000
+Document\ Type=OR
+EMS\ Credential\ Name=
+EMS\ Host=
+EMS\ Number\ of\ Concurrent\ Processes=1
+EMS\ Path=
+EMS\ Port=443
+EMS\ Queue\ Name=
+Extension\ Implemented=false
+Private\ Key\ Alias=
+Recipient\ Business\ System\ ID=
+S4\ Item\ Increment\ Interval=10
+S4HANA\ Host=
+S4_Authentication=Basic
+S4_CC_LocationID=
+S4_CredentialName=
+S4_Language=EN
+SAP\ CPQ\ Host=
+Sender\ Business\ System\ ID=
+enableLog=false

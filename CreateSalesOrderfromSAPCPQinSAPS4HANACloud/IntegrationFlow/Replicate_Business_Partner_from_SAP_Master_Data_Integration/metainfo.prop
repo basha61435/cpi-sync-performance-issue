@@ -1,0 +1,6 @@
+#Store metainfo properties
+#Mon Nov 23 12:57:43 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Processing requests for business partner replication from SAP Master Data Integration to SAP CPQ.
+source=SAPS4HANA
+target=SAPCPQ

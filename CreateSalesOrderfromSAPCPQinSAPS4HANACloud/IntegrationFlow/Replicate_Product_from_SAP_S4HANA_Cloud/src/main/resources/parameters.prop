@@ -1,0 +1,20 @@
+#Mon Nov 23 12:57:44 UTC 2026
+CPQ\ Grant\ Type=password
+CPQCredentials=
+CPQ_Authenticationtype=None
+CPQ_Domain=
+ChunkingAllowed=1
+Extension\ Implemented=false
+Issuer=
+Logging=false
+PrivateKeyAlias=
+ProxyType=default
+S4-CPQ-MaterialReplicationPostExit=
+S4_Auth=RoleBased
+S4_Material_address=
+SAP\ CPQ\ Host=
+SAP_CLOUD_CATEGORY=
+TimeOut=60000
+UserRole=
+pv-key-alias=
+subject=

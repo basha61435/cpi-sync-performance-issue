@@ -1,0 +1,14 @@
+#Mon Nov 23 12:57:41 UTC 2026
+CPQ\ Authentication\ Type=None
+CPQ\ Credentials=
+CPQ\ Domain=
+CPQ\ Grant\ Type=password
+Post\ Processing\ Extension\ Enabled=false
+PostExit_Address=
+SAP\ CPQ\ Access\ Token\ Authentication=None
+SAP\ CPQ\ Host=
+SAP\ CPQ\ Request\ Timeout=60000
+SAP\ CPQ\ Token\ Private\ Key\ Alias=
+SOAP\ Replication\ Address=
+SOAP\ Replication\ Authorization=RoleBased
+SOAP\ Replication\ UserRole=ESBMessaging.send

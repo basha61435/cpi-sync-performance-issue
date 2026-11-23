@@ -1,0 +1,6 @@
+#Store metainfo properties
+#Mon Nov 23 12:57:44 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Product replication from SAP S/4HANA Cloud to SAP CPQ.
+source=SAPS4HANA
+target=SAPCPQ

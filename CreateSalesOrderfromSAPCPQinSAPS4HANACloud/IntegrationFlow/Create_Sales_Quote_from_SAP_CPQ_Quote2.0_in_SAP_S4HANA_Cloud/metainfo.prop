@@ -1,0 +1,6 @@
+#Store metainfo properties
+#Mon Nov 23 12:57:42 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Quote replication from the SAP CPQ Quote 2.0 to SAP S/4HANA Cloud with configuration data from the SAP CPQ Quotes API.
+source=SAPCPQ
+target=SAPS4HANA

@@ -1,0 +1,15 @@
+#Mon Nov 23 12:57:43 UTC 2026
+BP_Replication_Address=
+BusinessPartnerReplication_PostProcessingRequest=
+CPQ\ Grant\ Type=password
+CPQCredentials=
+CPQ_AuthenticationType=Client Certificate
+CPQ_Domain=
+Issuer_DN=
+Post\ Processing\ Extension\ Enabled=
+Private\ Key\ Alias=
+S4_Auth=RoleBased
+SAP\ CPQ\ Host=
+SAP\ CPQ\ Request\ Timeout=60000
+Subject_DN=
+UserRole=ESBMessaging.send
