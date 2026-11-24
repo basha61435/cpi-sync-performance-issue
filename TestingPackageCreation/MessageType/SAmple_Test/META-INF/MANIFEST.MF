@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SAmple Test
+Bundle-SymbolicName: SAmple_Test
+Bundle-Version: 1.0.0
+SAP-BundleType: MessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: messagetype.SAmple_Test;version:Version="1.0.0"
+

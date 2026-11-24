@@ -1,0 +1,13 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:p1="test">
+   <xsd:include schemaLocation="dt://schema?key=ExchangeFaultData|ExchangeFaultData_4c504b3260b966fbdec2dbc0a6a8b1be" />
+   <xsd:import namespace="test" schemaLocation="dt://schema?key=Test|Test" />
+   <xsd:element name="eartws">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="standard" type="ExchangeFaultData" />
+            <xsd:element name="addition" type="p1:Test" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+</xsd:schema>

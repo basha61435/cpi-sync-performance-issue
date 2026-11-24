@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eartws
+Bundle-SymbolicName: eartws
+Bundle-Version: 1.0.0
+SAP-BundleType: FaultMessageType
+SAP-NodeType: IFLMAP
+Import-Package: 
+Provide-Capability: faultmessagetype.eartws;version:Version="1.0.0"
+

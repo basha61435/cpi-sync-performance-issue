@@ -1,0 +1,5 @@
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:p1="test">
+   <xsd:import namespace="test" schemaLocation="dt://schema?key=Test|Test" />
+   <xsd:element name="SAmple Test" type="p1:Test" />
+</xsd:schema>

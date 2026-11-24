@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><projectDescription>
+   <name>ExchangeFaultData_4c504b3260b966fbdec2dbc0a6a8b1be</name>
+   <comment/>
+   <projects/>
+   <buildSpec>
+      <buildCommand>
+         <name>org.eclipse.jdt.core.javabuilder</name>
+         <arguments/>
+      </buildCommand>
+   </buildSpec>
+   <natures>
+      <nature>org.eclipse.jdt.core.javanature</nature>
+      <nature>com.sap.ide.ifl.project.support.project.nature</nature>
+      <nature>com.sap.ide.ifl.bsn</nature>
+   </natures>
+</projectDescription>
