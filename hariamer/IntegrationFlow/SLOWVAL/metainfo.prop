@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Tue Nov 24 09:57:36 UTC 2026
+description=Replicates S/4HANA Cloud sales orders (A_SalesOrder) to Salesforce opportunities with header/item validation, enrichment and value mapping.
